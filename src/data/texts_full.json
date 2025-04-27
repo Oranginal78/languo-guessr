@@ -1,0 +1,3971 @@
+[
+    {
+        "language": "French",
+        "easy": [
+            {
+                "text": "bonjour",
+                "translation_en": "hello",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "merci",
+                "translation_en": "thank you",
+                "translation_fr": "merci"
+            },
+            {
+                "text": "chat",
+                "translation_en": "cat",
+                "translation_fr": "chat"
+            },
+            {
+                "text": "chien",
+                "translation_en": "dog",
+                "translation_fr": "chien"
+            },
+            {
+                "text": "fleur",
+                "translation_en": "flower",
+                "translation_fr": "fleur"
+            },
+            {
+                "text": "au revoir",
+                "translation_en": "goodbye",
+                "translation_fr": "au revoir"
+            },
+            {
+                "text": "s'il vous plaît",
+                "translation_en": "please",
+                "translation_fr": "s'il vous plaît"
+            },
+            {
+                "text": "oui",
+                "translation_en": "yes",
+                "translation_fr": "oui"
+            },
+            {
+                "text": "non",
+                "translation_en": "no",
+                "translation_fr": "non"
+            },
+            {
+                "text": "eau",
+                "translation_en": "water",
+                "translation_fr": "eau"
+            }
+        ],
+        "normal": [
+            {
+                "text": "bonne journée",
+                "translation_en": "good day",
+                "translation_fr": "bonne journée"
+            },
+            {
+                "text": "à demain",
+                "translation_en": "see you tomorrow",
+                "translation_fr": "à demain"
+            },
+            {
+                "text": "petit déjeuner",
+                "translation_en": "breakfast",
+                "translation_fr": "petit déjeuner"
+            },
+            {
+                "text": "comment ça va",
+                "translation_en": "how are you",
+                "translation_fr": "comment ça va"
+            },
+            {
+                "text": "très bien merci",
+                "translation_en": "very good thank you",
+                "translation_fr": "très bien merci"
+            },
+            {
+                "text": "excusez-moi",
+                "translation_en": "excuse me",
+                "translation_fr": "excusez-moi"
+            },
+            {
+                "text": "je ne comprends pas",
+                "translation_en": "I don't understand",
+                "translation_fr": "je ne comprends pas"
+            },
+            {
+                "text": "parlez-vous anglais",
+                "translation_en": "do you speak English",
+                "translation_fr": "parlez-vous anglais"
+            },
+            {
+                "text": "je suis désolé",
+                "translation_en": "I am sorry",
+                "translation_fr": "je suis désolé"
+            },
+            {
+                "text": "combien ça coûte",
+                "translation_en": "how much does it cost",
+                "translation_fr": "combien ça coûte"
+            }
+        ],
+        "hard": [
+            {
+                "text": "il fait beau aujourd'hui",
+                "translation_en": "it's nice weather today",
+                "translation_fr": "il fait beau aujourd'hui"
+            },
+            {
+                "text": "je voudrais réserver une table",
+                "translation_en": "I would like to book a table",
+                "translation_fr": "je voudrais réserver une table"
+            },
+            {
+                "text": "c'est une belle journée pour marcher",
+                "translation_en": "it's a beautiful day to walk",
+                "translation_fr": "c'est une belle journée pour marcher"
+            },
+            {
+                "text": "je cherche un bon restaurant français",
+                "translation_en": "I'm looking for a good French restaurant",
+                "translation_fr": "je cherche un bon restaurant français"
+            },
+            {
+                "text": "pouvons-nous avoir l'addition s'il vous plaît",
+                "translation_en": "can we have the bill please",
+                "translation_fr": "pouvons-nous avoir l'addition s'il vous plaît"
+            },
+            {
+                "text": "pourriez-vous me recommander un bon vin",
+                "translation_en": "could you recommend a good wine",
+                "translation_fr": "pourriez-vous me recommander un bon vin"
+            },
+            {
+                "text": "je suis allergique aux fruits de mer",
+                "translation_en": "I am allergic to seafood",
+                "translation_fr": "je suis allergique aux fruits de mer"
+            },
+            {
+                "text": "je me suis perdu, pouvez-vous m'aider",
+                "translation_en": "I am lost, can you help me",
+                "translation_fr": "je me suis perdu, pouvez-vous m'aider"
+            },
+            {
+                "text": "quelle est la spécialité locale",
+                "translation_en": "what is the local specialty",
+                "translation_fr": "quelle est la spécialité locale"
+            },
+            {
+                "text": "je dois prendre un rendez-vous médical",
+                "translation_en": "I need to make a medical appointment",
+                "translation_fr": "je dois prendre un rendez-vous médical"
+            }
+        ]
+    },
+    {
+        "language": "Spanish",
+        "easy": [
+            {
+                "text": "hola",
+                "translation_en": "hello",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "gracias",
+                "translation_en": "thank you",
+                "translation_fr": "merci"
+            },
+            {
+                "text": "gato",
+                "translation_en": "cat",
+                "translation_fr": "chat"
+            },
+            {
+                "text": "perro",
+                "translation_en": "dog",
+                "translation_fr": "chien"
+            },
+            {
+                "text": "flor",
+                "translation_en": "flower",
+                "translation_fr": "fleur"
+            },
+            {
+                "text": "adiós",
+                "translation_en": "goodbye",
+                "translation_fr": "au revoir"
+            },
+            {
+                "text": "por favor",
+                "translation_en": "please",
+                "translation_fr": "s'il vous plaît"
+            },
+            {
+                "text": "sí",
+                "translation_en": "yes",
+                "translation_fr": "oui"
+            },
+            {
+                "text": "no",
+                "translation_en": "no",
+                "translation_fr": "non"
+            },
+            {
+                "text": "agua",
+                "translation_en": "water",
+                "translation_fr": "eau"
+            }
+        ],
+        "normal": [
+            {
+                "text": "buen día",
+                "translation_en": "good day",
+                "translation_fr": "bonne journée"
+            },
+            {
+                "text": "hasta mañana",
+                "translation_en": "see you tomorrow",
+                "translation_fr": "à demain"
+            },
+            {
+                "text": "desayuno",
+                "translation_en": "breakfast",
+                "translation_fr": "petit déjeuner"
+            },
+            {
+                "text": "cómo estás",
+                "translation_en": "how are you",
+                "translation_fr": "comment ça va"
+            },
+            {
+                "text": "muy bien gracias",
+                "translation_en": "very good thank you",
+                "translation_fr": "très bien merci"
+            },
+            {
+                "text": "disculpe",
+                "translation_en": "excuse me",
+                "translation_fr": "excusez-moi"
+            },
+            {
+                "text": "no entiendo",
+                "translation_en": "I don't understand",
+                "translation_fr": "je ne comprends pas"
+            },
+            {
+                "text": "hablas inglés",
+                "translation_en": "do you speak English",
+                "translation_fr": "parlez-vous anglais"
+            },
+            {
+                "text": "lo siento",
+                "translation_en": "I am sorry",
+                "translation_fr": "je suis désolé"
+            },
+            {
+                "text": "cuánto cuesta",
+                "translation_en": "how much does it cost",
+                "translation_fr": "combien ça coûte"
+            }
+        ],
+        "hard": [
+            {
+                "text": "hace buen tiempo hoy",
+                "translation_en": "it's nice weather today",
+                "translation_fr": "il fait beau aujourd'hui"
+            },
+            {
+                "text": "quiero reservar una mesa",
+                "translation_en": "I would like to book a table",
+                "translation_fr": "je voudrais réserver une table"
+            },
+            {
+                "text": "es un buen día para caminar",
+                "translation_en": "it's a beautiful day to walk",
+                "translation_fr": "c'est une belle journée pour marcher"
+            },
+            {
+                "text": "busco un buen restaurante español",
+                "translation_en": "I'm looking for a good Spanish restaurant",
+                "translation_fr": "je cherche un bon restaurant espagnol"
+            },
+            {
+                "text": "¿podemos tener la cuenta por favor?",
+                "translation_en": "can we have the bill please",
+                "translation_fr": "pouvons-nous avoir l'addition s'il vous plaît"
+            },
+            {
+                "text": "¿podría recomendarme un buen vino?",
+                "translation_en": "could you recommend a good wine",
+                "translation_fr": "pourriez-vous me recommander un bon vin"
+            },
+            {
+                "text": "soy alérgico a los mariscos",
+                "translation_en": "I am allergic to seafood",
+                "translation_fr": "je suis allergique aux fruits de mer"
+            },
+            {
+                "text": "me he perdido, ¿puede ayudarme?",
+                "translation_en": "I am lost, can you help me",
+                "translation_fr": "je me suis perdu, pouvez-vous m'aider"
+            },
+            {
+                "text": "¿cuál es la especialidad local?",
+                "translation_en": "what is the local specialty",
+                "translation_fr": "quelle est la spécialité locale"
+            },
+            {
+                "text": "necesito pedir una cita médica",
+                "translation_en": "I need to make a medical appointment",
+                "translation_fr": "je dois prendre un rendez-vous médical"
+            }
+        ]
+    },
+    {
+        "language": "German",
+        "easy": [
+            {
+                "text": "hallo",
+                "translation_en": "hello",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "danke",
+                "translation_en": "thank you",
+                "translation_fr": "merci"
+            },
+            {
+                "text": "katze",
+                "translation_en": "cat",
+                "translation_fr": "chat"
+            },
+            {
+                "text": "hund",
+                "translation_en": "dog",
+                "translation_fr": "chien"
+            },
+            {
+                "text": "blume",
+                "translation_en": "flower",
+                "translation_fr": "fleur"
+            },
+            {
+                "text": "auf wiedersehen",
+                "translation_en": "goodbye",
+                "translation_fr": "au revoir"
+            },
+            {
+                "text": "bitte",
+                "translation_en": "please",
+                "translation_fr": "s'il vous plaît"
+            },
+            {
+                "text": "ja",
+                "translation_en": "yes",
+                "translation_fr": "oui"
+            },
+            {
+                "text": "nein",
+                "translation_en": "no",
+                "translation_fr": "non"
+            },
+            {
+                "text": "wasser",
+                "translation_en": "water",
+                "translation_fr": "eau"
+            }
+        ],
+        "normal": [
+            {
+                "text": "guten tag",
+                "translation_en": "good day",
+                "translation_fr": "bonne journée"
+            },
+            {
+                "text": "bis morgen",
+                "translation_en": "see you tomorrow",
+                "translation_fr": "à demain"
+            },
+            {
+                "text": "frühstück",
+                "translation_en": "breakfast",
+                "translation_fr": "petit déjeuner"
+            },
+            {
+                "text": "wie geht's",
+                "translation_en": "how are you",
+                "translation_fr": "comment ça va"
+            },
+            {
+                "text": "sehr gut danke",
+                "translation_en": "very good thank you",
+                "translation_fr": "très bien merci"
+            },
+            {
+                "text": "entschuldigung",
+                "translation_en": "excuse me",
+                "translation_fr": "excusez-moi"
+            },
+            {
+                "text": "ich verstehe nicht",
+                "translation_en": "I don't understand",
+                "translation_fr": "je ne comprends pas"
+            },
+            {
+                "text": "sprechen sie englisch",
+                "translation_en": "do you speak English",
+                "translation_fr": "parlez-vous anglais"
+            },
+            {
+                "text": "es tut mir leid",
+                "translation_en": "I am sorry",
+                "translation_fr": "je suis désolé"
+            },
+            {
+                "text": "wie viel kostet das",
+                "translation_en": "how much does it cost",
+                "translation_fr": "combien ça coûte"
+            }
+        ],
+        "hard": [
+            {
+                "text": "heute ist schönes wetter",
+                "translation_en": "it's nice weather today",
+                "translation_fr": "il fait beau aujourd'hui"
+            },
+            {
+                "text": "ich möchte einen tisch reservieren",
+                "translation_en": "I would like to book a table",
+                "translation_fr": "je voudrais réserver une table"
+            },
+            {
+                "text": "es ist ein schöner tag zum spazierengehen",
+                "translation_en": "it's a beautiful day to walk",
+                "translation_fr": "c'est une belle journée pour marcher"
+            },
+            {
+                "text": "ich suche ein gutes deutsches restaurant",
+                "translation_en": "I'm looking for a good German restaurant",
+                "translation_fr": "je cherche un bon restaurant allemand"
+            },
+            {
+                "text": "können wir bitte die rechnung bekommen",
+                "translation_en": "can we have the bill please",
+                "translation_fr": "pouvons-nous avoir l'addition s'il vous plaît"
+            },
+            {
+                "text": "könnten sie mir einen guten wein empfehlen",
+                "translation_en": "could you recommend a good wine",
+                "translation_fr": "pourriez-vous me recommander un bon vin"
+            },
+            {
+                "text": "ich bin allergisch gegen meeresfrüchte",
+                "translation_en": "I am allergic to seafood",
+                "translation_fr": "je suis allergique aux fruits de mer"
+            },
+            {
+                "text": "ich habe mich verirrt, können sie mir helfen",
+                "translation_en": "I am lost, can you help me",
+                "translation_fr": "je me suis perdu, pouvez-vous m'aider"
+            },
+            {
+                "text": "was ist die lokale spezialität",
+                "translation_en": "what is the local specialty",
+                "translation_fr": "quelle est la spécialité locale"
+            },
+            {
+                "text": "ich muss einen arzttermin vereinbaren",
+                "translation_en": "I need to make a medical appointment",
+                "translation_fr": "je dois prendre un rendez-vous médical"
+            }
+        ]
+    },
+    {
+        "language": "Italian",
+        "easy": [
+            {
+                "text": "ciao",
+                "translation_en": "hello",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "grazie",
+                "translation_en": "thank you",
+                "translation_fr": "merci"
+            },
+            {
+                "text": "gatto",
+                "translation_en": "cat",
+                "translation_fr": "chat"
+            },
+            {
+                "text": "cane",
+                "translation_en": "dog",
+                "translation_fr": "chien"
+            },
+            {
+                "text": "fiore",
+                "translation_en": "flower",
+                "translation_fr": "fleur"
+            },
+            {
+                "text": "arrivederci",
+                "translation_en": "goodbye",
+                "translation_fr": "au revoir"
+            },
+            {
+                "text": "per favore",
+                "translation_en": "please",
+                "translation_fr": "s'il vous plaît"
+            },
+            {
+                "text": "sì",
+                "translation_en": "yes",
+                "translation_fr": "oui"
+            },
+            {
+                "text": "no",
+                "translation_en": "no",
+                "translation_fr": "non"
+            },
+            {
+                "text": "acqua",
+                "translation_en": "water",
+                "translation_fr": "eau"
+            }
+        ],
+        "normal": [
+            {
+                "text": "buona giornata",
+                "translation_en": "good day",
+                "translation_fr": "bonne journée"
+            },
+            {
+                "text": "a domani",
+                "translation_en": "see you tomorrow",
+                "translation_fr": "à demain"
+            },
+            {
+                "text": "colazione",
+                "translation_en": "breakfast",
+                "translation_fr": "petit déjeuner"
+            },
+            {
+                "text": "come stai",
+                "translation_en": "how are you",
+                "translation_fr": "comment ça va"
+            },
+            {
+                "text": "molto bene grazie",
+                "translation_en": "very good thank you",
+                "translation_fr": "très bien merci"
+            },
+            {
+                "text": "scusi",
+                "translation_en": "excuse me",
+                "translation_fr": "excusez-moi"
+            },
+            {
+                "text": "non capisco",
+                "translation_en": "I don't understand",
+                "translation_fr": "je ne comprends pas"
+            },
+            {
+                "text": "parla inglese",
+                "translation_en": "do you speak English",
+                "translation_fr": "parlez-vous anglais"
+            },
+            {
+                "text": "mi dispiace",
+                "translation_en": "I am sorry",
+                "translation_fr": "je suis désolé"
+            },
+            {
+                "text": "quanto costa",
+                "translation_en": "how much does it cost",
+                "translation_fr": "combien ça coûte"
+            }
+        ],
+        "hard": [
+            {
+                "text": "fa bel tempo oggi",
+                "translation_en": "it's nice weather today",
+                "translation_fr": "il fait beau aujourd'hui"
+            },
+            {
+                "text": "vorrei prenotare un tavolo",
+                "translation_en": "I would like to book a table",
+                "translation_fr": "je voudrais réserver une table"
+            },
+            {
+                "text": "è una bella giornata per camminare",
+                "translation_en": "it's a beautiful day to walk",
+                "translation_fr": "c'est une belle journée pour marcher"
+            },
+            {
+                "text": "sto cercando un buon ristorante italiano",
+                "translation_en": "I'm looking for a good Italian restaurant",
+                "translation_fr": "je cherche un bon restaurant italien"
+            },
+            {
+                "text": "possiamo avere il conto per favore",
+                "translation_en": "can we have the bill please",
+                "translation_fr": "pouvons-nous avoir l'addition s'il vous plaît"
+            },
+            {
+                "text": "potrebbe consigliarmi un buon vino",
+                "translation_en": "could you recommend a good wine",
+                "translation_fr": "pourriez-vous me recommander un bon vin"
+            },
+            {
+                "text": "sono allergico ai frutti di mare",
+                "translation_en": "I am allergic to seafood",
+                "translation_fr": "je suis allergique aux fruits de mer"
+            },
+            {
+                "text": "mi sono perso, può aiutarmi",
+                "translation_en": "I am lost, can you help me",
+                "translation_fr": "je me suis perdu, pouvez-vous m'aider"
+            },
+            {
+                "text": "qual è la specialità locale",
+                "translation_en": "what is the local specialty",
+                "translation_fr": "quelle est la spécialité locale"
+            },
+            {
+                "text": "devo prendere un appuntamento medico",
+                "translation_en": "I need to make a medical appointment",
+                "translation_fr": "je dois prendre un rendez-vous médical"
+            }
+        ]
+    },
+    {
+        "language": "Portuguese",
+        "easy": [
+            {
+                "text": "olá",
+                "translation_en": "hello",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "obrigado",
+                "translation_en": "thank you",
+                "translation_fr": "merci"
+            },
+            {
+                "text": "gato",
+                "translation_en": "cat",
+                "translation_fr": "chat"
+            },
+            {
+                "text": "cachorro",
+                "translation_en": "dog",
+                "translation_fr": "chien"
+            },
+            {
+                "text": "flor",
+                "translation_en": "flower",
+                "translation_fr": "fleur"
+            },
+            {
+                "text": "adeus",
+                "translation_en": "goodbye",
+                "translation_fr": "au revoir"
+            },
+            {
+                "text": "por favor",
+                "translation_en": "please",
+                "translation_fr": "s'il vous plaît"
+            },
+            {
+                "text": "sim",
+                "translation_en": "yes",
+                "translation_fr": "oui"
+            },
+            {
+                "text": "não",
+                "translation_en": "no",
+                "translation_fr": "non"
+            },
+            {
+                "text": "água",
+                "translation_en": "water",
+                "translation_fr": "eau"
+            }
+        ],
+        "normal": [
+            {
+                "text": "bom dia",
+                "translation_en": "good day",
+                "translation_fr": "bonne journée"
+            },
+            {
+                "text": "até amanhã",
+                "translation_en": "see you tomorrow",
+                "translation_fr": "à demain"
+            },
+            {
+                "text": "café da manhã",
+                "translation_en": "breakfast",
+                "translation_fr": "petit déjeuner"
+            },
+            {
+                "text": "como vai",
+                "translation_en": "how are you",
+                "translation_fr": "comment ça va"
+            },
+            {
+                "text": "muito bem obrigado",
+                "translation_en": "very good thank you",
+                "translation_fr": "très bien merci"
+            },
+            {
+                "text": "com licença",
+                "translation_en": "excuse me",
+                "translation_fr": "excusez-moi"
+            },
+            {
+                "text": "não entendo",
+                "translation_en": "I don't understand",
+                "translation_fr": "je ne comprends pas"
+            },
+            {
+                "text": "fala inglês",
+                "translation_en": "do you speak English",
+                "translation_fr": "parlez-vous anglais"
+            },
+            {
+                "text": "desculpe",
+                "translation_en": "I am sorry",
+                "translation_fr": "je suis désolé"
+            },
+            {
+                "text": "quanto custa",
+                "translation_en": "how much does it cost",
+                "translation_fr": "combien ça coûte"
+            }
+        ],
+        "hard": [
+            {
+                "text": "o tempo está bom hoje",
+                "translation_en": "it's nice weather today",
+                "translation_fr": "il fait beau aujourd'hui"
+            },
+            {
+                "text": "gostaria de reservar uma mesa",
+                "translation_en": "I would like to book a table",
+                "translation_fr": "je voudrais réserver une table"
+            },
+            {
+                "text": "é um bom dia para caminhar",
+                "translation_en": "it's a beautiful day to walk",
+                "translation_fr": "c'est une belle journée pour marcher"
+            },
+            {
+                "text": "procuro um bom restaurante português",
+                "translation_en": "I'm looking for a good Portuguese restaurant",
+                "translation_fr": "je cherche un bon restaurant portugais"
+            },
+            {
+                "text": "podemos pegar a conta por favor",
+                "translation_en": "can we have the bill please",
+                "translation_fr": "pouvons-nous avoir l'addition s'il vous plaît"
+            },
+            {
+                "text": "poderia recomendar um bom vinho",
+                "translation_en": "could you recommend a good wine",
+                "translation_fr": "pourriez-vous me recommander un bon vin"
+            },
+            {
+                "text": "sou alérgico a frutos do mar",
+                "translation_en": "I am allergic to seafood",
+                "translation_fr": "je suis allergique aux fruits de mer"
+            },
+            {
+                "text": "estou perdido, pode me ajudar",
+                "translation_en": "I am lost, can you help me",
+                "translation_fr": "je me suis perdu, pouvez-vous m'aider"
+            },
+            {
+                "text": "qual é a especialidade local",
+                "translation_en": "what is the local specialty",
+                "translation_fr": "quelle est la spécialité locale"
+            },
+            {
+                "text": "preciso marcar uma consulta médica",
+                "translation_en": "I need to make a medical appointment",
+                "translation_fr": "je dois prendre un rendez-vous médical"
+            }
+        ]
+    },
+    {
+        "language": "Russian",
+        "easy": [
+            {
+                "text": "привет",
+                "translation_en": "hello",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "спасибо",
+                "translation_en": "thank you",
+                "translation_fr": "merci"
+            },
+            {
+                "text": "кошка",
+                "translation_en": "cat",
+                "translation_fr": "chat"
+            },
+            {
+                "text": "собака",
+                "translation_en": "dog",
+                "translation_fr": "chien"
+            },
+            {
+                "text": "цветок",
+                "translation_en": "flower",
+                "translation_fr": "fleur"
+            },
+            {
+                "text": "до свидания",
+                "translation_en": "goodbye",
+                "translation_fr": "au revoir"
+            },
+            {
+                "text": "пожалуйста",
+                "translation_en": "please",
+                "translation_fr": "s'il vous plaît"
+            },
+            {
+                "text": "да",
+                "translation_en": "yes",
+                "translation_fr": "oui"
+            },
+            {
+                "text": "нет",
+                "translation_en": "no",
+                "translation_fr": "non"
+            },
+            {
+                "text": "вода",
+                "translation_en": "water",
+                "translation_fr": "eau"
+            }
+        ],
+        "normal": [
+            {
+                "text": "добрый день",
+                "translation_en": "good day",
+                "translation_fr": "bonne journée"
+            },
+            {
+                "text": "до завтра",
+                "translation_en": "see you tomorrow",
+                "translation_fr": "à demain"
+            },
+            {
+                "text": "завтрак",
+                "translation_en": "breakfast",
+                "translation_fr": "petit déjeuner"
+            },
+            {
+                "text": "как дела",
+                "translation_en": "how are you",
+                "translation_fr": "comment ça va"
+            },
+            {
+                "text": "очень хорошо спасибо",
+                "translation_en": "very good thank you",
+                "translation_fr": "très bien merci"
+            },
+            {
+                "text": "извините",
+                "translation_en": "excuse me",
+                "translation_fr": "excusez-moi"
+            },
+            {
+                "text": "я не понимаю",
+                "translation_en": "I don't understand",
+                "translation_fr": "je ne comprends pas"
+            },
+            {
+                "text": "вы говорите по-английски",
+                "translation_en": "do you speak English",
+                "translation_fr": "parlez-vous anglais"
+            },
+            {
+                "text": "мне жаль",
+                "translation_en": "I am sorry",
+                "translation_fr": "je suis désolé"
+            },
+            {
+                "text": "сколько это стоит",
+                "translation_en": "how much does it cost",
+                "translation_fr": "combien ça coûte"
+            }
+        ],
+        "hard": [
+            {
+                "text": "сегодня хорошая погода",
+                "translation_en": "it's nice weather today",
+                "translation_fr": "il fait beau aujourd'hui"
+            },
+            {
+                "text": "я хотел бы забронировать столик",
+                "translation_en": "I would like to book a table",
+                "translation_fr": "je voudrais réserver une table"
+            },
+            {
+                "text": "сегодня прекрасный день для прогулки",
+                "translation_en": "it's a beautiful day to walk",
+                "translation_fr": "c'est une belle journée pour marcher"
+            },
+            {
+                "text": "я ищу хороший ресторан русской кухни",
+                "translation_en": "I'm looking for a good Russian restaurant",
+                "translation_fr": "je cherche un bon restaurant russe"
+            },
+            {
+                "text": "можно нам счёт, пожалуйста",
+                "translation_en": "can we have the bill please",
+                "translation_fr": "pouvons-nous avoir l'addition s'il vous plaît"
+            },
+            {
+                "text": "можете порекомендовать хороший вино",
+                "translation_en": "could you recommend a good wine",
+                "translation_fr": "pourriez-vous me recommander un bon vin"
+            },
+            {
+                "text": "я аллергичен на морепродукты",
+                "translation_en": "I am allergic to seafood",
+                "translation_fr": "je suis allergique aux fruits de mer"
+            },
+            {
+                "text": "я потерялся, можете помочь",
+                "translation_en": "I am lost, can you help me",
+                "translation_fr": "je me suis perdu, pouvez-vous m'aider"
+            },
+            {
+                "text": "какая местная особенность",
+                "translation_en": "what is the local specialty",
+                "translation_fr": "quelle est la spécialité locale"
+            },
+            {
+                "text": "мне нужно записаться на приём к врачу",
+                "translation_en": "I need to make a medical appointment",
+                "translation_fr": "je dois prendre un rendez-vous médical"
+            }
+        ]
+    },
+    {
+        "language": "Chinese",
+        "easy": [
+            {
+                "text": "你好",
+                "translation_en": "hello",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "谢谢",
+                "translation_en": "thank you",
+                "translation_fr": "merci"
+            },
+            {
+                "text": "猫",
+                "translation_en": "cat",
+                "translation_fr": "chat"
+            },
+            {
+                "text": "狗",
+                "translation_en": "dog",
+                "translation_fr": "chien"
+            },
+            {
+                "text": "花",
+                "translation_en": "flower",
+                "translation_fr": "fleur"
+            },
+            {
+                "text": "再见",
+                "translation_en": "goodbye",
+                "translation_fr": "au revoir"
+            },
+            {
+                "text": "请",
+                "translation_en": "please",
+                "translation_fr": "s'il vous plaît"
+            },
+            {
+                "text": "是",
+                "translation_en": "yes",
+                "translation_fr": "oui"
+            },
+            {
+                "text": "不是",
+                "translation_en": "no",
+                "translation_fr": "non"
+            },
+            {
+                "text": "水",
+                "translation_en": "water",
+                "translation_fr": "eau"
+            }
+        ],
+        "normal": [
+            {
+                "text": "早安",
+                "translation_en": "good morning",
+                "translation_fr": "bonne journée"
+            },
+            {
+                "text": "明天见",
+                "translation_en": "see you tomorrow",
+                "translation_fr": "à demain"
+            },
+            {
+                "text": "早餐",
+                "translation_en": "breakfast",
+                "translation_fr": "petit déjeuner"
+            },
+            {
+                "text": "你好吗",
+                "translation_en": "how are you",
+                "translation_fr": "comment ça va"
+            },
+            {
+                "text": "很好，谢谢",
+                "translation_en": "very good, thank you",
+                "translation_fr": "très bien merci"
+            },
+            {
+                "text": "对不起",
+                "translation_en": "excuse me",
+                "translation_fr": "excusez-moi"
+            },
+            {
+                "text": "我不明白",
+                "translation_en": "I don't understand",
+                "translation_fr": "je ne comprends pas"
+            },
+            {
+                "text": "你会说英语吗",
+                "translation_en": "do you speak English",
+                "translation_fr": "parlez-vous anglais"
+            },
+            {
+                "text": "对不起",
+                "translation_en": "I'm sorry",
+                "translation_fr": "je suis désolé"
+            },
+            {
+                "text": "多少钱",
+                "translation_en": "how much does it cost",
+                "translation_fr": "combien ça coûte"
+            }
+        ],
+        "hard": [
+            {
+                "text": "今天的天气很好",
+                "translation_en": "it's nice weather today",
+                "translation_fr": "il fait beau aujourd'hui"
+            },
+            {
+                "text": "我想预订一张桌子",
+                "translation_en": "I would like to book a table",
+                "translation_fr": "je voudrais réserver une table"
+            },
+            {
+                "text": "今天是走路的好天气",
+                "translation_en": "it's a beautiful day to walk",
+                "translation_fr": "c'est une belle journée pour marcher"
+            },
+            {
+                "text": "我在找一家好的法国餐厅",
+                "translation_en": "I'm looking for a good French restaurant",
+                "translation_fr": "je cherche un bon restaurant français"
+            },
+            {
+                "text": "我们可以要账单吗",
+                "translation_en": "can we have the bill please",
+                "translation_fr": "pouvons-nous avoir l'addition s'il vous plaît"
+            },
+            {
+                "text": "你能推荐一款好酒吗",
+                "translation_en": "could you recommend a good wine",
+                "translation_fr": "pourriez-vous me recommander un bon vin"
+            },
+            {
+                "text": "我对海鲜过敏",
+                "translation_en": "I am allergic to seafood",
+                "translation_fr": "je suis allergique aux fruits de mer"
+            },
+            {
+                "text": "我迷路了，可以帮我一下吗",
+                "translation_en": "I am lost, can you help me",
+                "translation_fr": "je me suis perdu, pouvez-vous m'aider"
+            },
+            {
+                "text": "当地的特色是什么",
+                "translation_en": "what is the local specialty",
+                "translation_fr": "quelle est la spécialité locale"
+            },
+            {
+                "text": "我需要预约一个医生",
+                "translation_en": "I need to make a medical appointment",
+                "translation_fr": "je dois prendre un rendez-vous médical"
+            }
+        ]
+    },
+    {
+        "language": "Hindi",
+        "easy": [
+            {
+                "text": "नमस्ते",
+                "translation_en": "hello",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "धन्यवाद",
+                "translation_en": "thank you",
+                "translation_fr": "merci"
+            },
+            {
+                "text": "बिल्ली",
+                "translation_en": "cat",
+                "translation_fr": "chat"
+            },
+            {
+                "text": "कुत्ता",
+                "translation_en": "dog",
+                "translation_fr": "chien"
+            },
+            {
+                "text": "फूल",
+                "translation_en": "flower",
+                "translation_fr": "fleur"
+            }
+        ],
+        "normal": [
+            {
+                "text": "अच्छा दिन",
+                "translation_en": "good day",
+                "translation_fr": "bonne journée"
+            },
+            {
+                "text": "कल मिलते हैं",
+                "translation_en": "see you tomorrow",
+                "translation_fr": "à demain"
+            },
+            {
+                "text": "नाश्ता",
+                "translation_en": "breakfast",
+                "translation_fr": "petit déjeuner"
+            },
+            {
+                "text": "कैसे हो",
+                "translation_en": "how are you",
+                "translation_fr": "comment ça va"
+            },
+            {
+                "text": "बहुत अच्छा धन्यवाद",
+                "translation_en": "very good thank you",
+                "translation_fr": "très bien merci"
+            }
+        ],
+        "hard": [
+            {
+                "text": "आज चलने के लिए अच्छा मौसम है",
+                "translation_en": "it's nice weather today",
+                "translation_fr": "il fait beau aujourd'hui"
+            },
+            {
+                "text": "मैं एक टेबल बुक करना चाहूंगा",
+                "translation_en": "I would like to book a table",
+                "translation_fr": "je voudrais réserver une table"
+            },
+            {
+                "text": "यह एक खूबसूरत दिन है चलने के लिए",
+                "translation_en": "it's a beautiful day to walk",
+                "translation_fr": "c'est une belle journée pour marcher"
+            },
+            {
+                "text": "मैं एक अच्छा भारतीय रेस्टोरेंट ढूंढ रहा हूँ",
+                "translation_en": "I'm looking for a good Indian restaurant",
+                "translation_fr": "je cherche un bon restaurant indien"
+            },
+            {
+                "text": "क्या हम कृपया बिल ले सकते हैं",
+                "translation_en": "can we have the bill please",
+                "translation_fr": "pouvons-nous avoir l'addition s'il vous plaît"
+            }
+        ]
+    },
+    {
+        "language": "Vietnamese",
+        "easy": [
+            {
+                "text": "xin chào",
+                "translation_en": "hello",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "cảm ơn",
+                "translation_en": "thank you",
+                "translation_fr": "merci"
+            },
+            {
+                "text": "mèo",
+                "translation_en": "cat",
+                "translation_fr": "chat"
+            },
+            {
+                "text": "chó",
+                "translation_en": "dog",
+                "translation_fr": "chien"
+            },
+            {
+                "text": "hoa",
+                "translation_en": "flower",
+                "translation_fr": "fleur"
+            }
+        ],
+        "normal": [
+            {
+                "text": "chúc ngày mới",
+                "translation_en": "good day",
+                "translation_fr": "bonne journée"
+            },
+            {
+                "text": "hẹn gặp lại",
+                "translation_en": "see you tomorrow",
+                "translation_fr": "à demain"
+            },
+            {
+                "text": "bữa sáng",
+                "translation_en": "breakfast",
+                "translation_fr": "petit déjeuner"
+            },
+            {
+                "text": "bạn khỏe không",
+                "translation_en": "how are you",
+                "translation_fr": "comment ça va"
+            },
+            {
+                "text": "rất tốt, cảm ơn",
+                "translation_en": "very good thank you",
+                "translation_fr": "très bien merci"
+            }
+        ],
+        "hard": [
+            {
+                "text": "hôm nay thời tiết rất đẹp",
+                "translation_en": "it's nice weather today",
+                "translation_fr": "il fait beau aujourd'hui"
+            },
+            {
+                "text": "tôi muốn đặt một bàn",
+                "translation_en": "I would like to book a table",
+                "translation_fr": "je voudrais réserver une table"
+            },
+            {
+                "text": "hôm nay là một ngày đẹp để đi bộ",
+                "translation_en": "it's a beautiful day to walk",
+                "translation_fr": "c'est une belle journée pour marcher"
+            },
+            {
+                "text": "tôi đang tìm một nhà hàng ngon",
+                "translation_en": "I'm looking for a good restaurant",
+                "translation_fr": "je cherche un bon restaurant"
+            },
+            {
+                "text": "chúng ta có thể lấy hóa đơn được không",
+                "translation_en": "can we have the bill please",
+                "translation_fr": "pouvons-nous avoir l'addition s'il vous plaît"
+            }
+        ]
+    },
+    {
+        "language": "Turkish",
+        "easy": [
+            {
+                "text": "merhaba",
+                "translation_en": "hello",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "teşekkür ederim",
+                "translation_en": "thank you",
+                "translation_fr": "merci"
+            },
+            {
+                "text": "kedi",
+                "translation_en": "cat",
+                "translation_fr": "chat"
+            },
+            {
+                "text": "köpek",
+                "translation_en": "dog",
+                "translation_fr": "chien"
+            },
+            {
+                "text": "çicek",
+                "translation_en": "flower",
+                "translation_fr": "fleur"
+            }
+        ],
+        "normal": [
+            {
+                "text": "iyi günler",
+                "translation_en": "good day",
+                "translation_fr": "bonne journée"
+            },
+            {
+                "text": "yarın görüşürüz",
+                "translation_en": "see you tomorrow",
+                "translation_fr": "à demain"
+            },
+            {
+                "text": "kahvaltı",
+                "translation_en": "breakfast",
+                "translation_fr": "petit déjeuner"
+            },
+            {
+                "text": "nasılsınız",
+                "translation_en": "how are you",
+                "translation_fr": "comment ça va"
+            },
+            {
+                "text": "çok iyi teşekkürler",
+                "translation_en": "very good thank you",
+                "translation_fr": "très bien merci"
+            }
+        ],
+        "hard": [
+            {
+                "text": "bugün hava çok güzel",
+                "translation_en": "it's nice weather today",
+                "translation_fr": "il fait beau aujourd'hui"
+            },
+            {
+                "text": "bir masa rezerve etmek istiyorum",
+                "translation_en": "I would like to book a table",
+                "translation_fr": "je voudrais réserver une table"
+            },
+            {
+                "text": "bugün yürüyüş için harika bir gün",
+                "translation_en": "it's a beautiful day to walk",
+                "translation_fr": "c'est une belle journée pour marcher"
+            },
+            {
+                "text": "iyi bir Türk restoranı arıyorum",
+                "translation_en": "I'm looking for a good Turkish restaurant",
+                "translation_fr": "je cherche un bon restaurant turc"
+            },
+            {
+                "text": "hesabı alabilir miyiz lütfen",
+                "translation_en": "can we have the bill please",
+                "translation_fr": "pouvons-nous avoir l'addition s'il vous plaît"
+            }
+        ]
+    },
+    {
+        "language": "Polish",
+        "easy": [
+            {
+                "text": "cześć",
+                "translation_en": "hello",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "dziękuję",
+                "translation_en": "thank you",
+                "translation_fr": "merci"
+            },
+            {
+                "text": "kot",
+                "translation_en": "cat",
+                "translation_fr": "chat"
+            },
+            {
+                "text": "pies",
+                "translation_en": "dog",
+                "translation_fr": "chien"
+            },
+            {
+                "text": "kwiat",
+                "translation_en": "flower",
+                "translation_fr": "fleur"
+            }
+        ],
+        "normal": [
+            {
+                "text": "dobrego dnia",
+                "translation_en": "good day",
+                "translation_fr": "bonne journée"
+            },
+            {
+                "text": "do jutra",
+                "translation_en": "see you tomorrow",
+                "translation_fr": "à demain"
+            },
+            {
+                "text": "śniadanie",
+                "translation_en": "breakfast",
+                "translation_fr": "petit déjeuner"
+            },
+            {
+                "text": "jak się masz",
+                "translation_en": "how are you",
+                "translation_fr": "comment ça va"
+            },
+            {
+                "text": "bardzo dobrze, dziękuję",
+                "translation_en": "very good thank you",
+                "translation_fr": "très bien merci"
+            }
+        ],
+        "hard": [
+            {
+                "text": "dziś jest piękna pogoda",
+                "translation_en": "it's nice weather today",
+                "translation_fr": "il fait beau aujourd'hui"
+            },
+            {
+                "text": "chciałbym zarezerwować stół",
+                "translation_en": "I would like to book a table",
+                "translation_fr": "je voudrais réserver une table"
+            },
+            {
+                "text": "to piękny dzień na spacer",
+                "translation_en": "it's a beautiful day to walk",
+                "translation_fr": "c'est une belle journée pour marcher"
+            },
+            {
+                "text": "szukam dobrego polskiego restauracji",
+                "translation_en": "I'm looking for a good Polish restaurant",
+                "translation_fr": "je cherche un bon restaurant polonais"
+            },
+            {
+                "text": "czy możemy dostać rachunek, proszę",
+                "translation_en": "can we have the bill please",
+                "translation_fr": "pouvons-nous avoir l'addition s'il vous plaît"
+            }
+        ]
+    },
+    {
+        "language": "Dutch",
+        "easy": [
+            {
+                "text": "hallo",
+                "translation_en": "hello",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "dank je",
+                "translation_en": "thank you",
+                "translation_fr": "merci"
+            },
+            {
+                "text": "kat",
+                "translation_en": "cat",
+                "translation_fr": "chat"
+            },
+            {
+                "text": "hond",
+                "translation_en": "dog",
+                "translation_fr": "chien"
+            },
+            {
+                "text": "bloem",
+                "translation_en": "flower",
+                "translation_fr": "fleur"
+            }
+        ],
+        "normal": [
+            {
+                "text": "goede dag",
+                "translation_en": "good day",
+                "translation_fr": "bonne journée"
+            },
+            {
+                "text": "tot morgen",
+                "translation_en": "see you tomorrow",
+                "translation_fr": "à demain"
+            },
+            {
+                "text": "ontbijt",
+                "translation_en": "breakfast",
+                "translation_fr": "petit déjeuner"
+            },
+            {
+                "text": "hoe gaat het",
+                "translation_en": "how are you",
+                "translation_fr": "comment ça va"
+            },
+            {
+                "text": "heel goed, dank je",
+                "translation_en": "very good thank you",
+                "translation_fr": "très bien merci"
+            }
+        ],
+        "hard": [
+            {
+                "text": "het is mooi weer vandaag",
+                "translation_en": "it's nice weather today",
+                "translation_fr": "il fait beau aujourd'hui"
+            },
+            {
+                "text": "ik wil een tafel reserveren",
+                "translation_en": "I would like to book a table",
+                "translation_fr": "je voudrais réserver une table"
+            },
+            {
+                "text": "het is een mooie dag om te wandelen",
+                "translation_en": "it's a beautiful day to walk",
+                "translation_fr": "c'est une belle journée pour marcher"
+            },
+            {
+                "text": "ik zoek een goed Nederlands restaurant",
+                "translation_en": "I'm looking for a good Dutch restaurant",
+                "translation_fr": "je cherche un bon restaurant néerlandais"
+            },
+            {
+                "text": "kunnen we de rekening krijgen, alstublieft",
+                "translation_en": "can we have the bill please",
+                "translation_fr": "pouvons-nous avoir l'addition s'il vous plaît"
+            }
+        ]
+    },
+    {
+        "language": "Swedish",
+        "easy": [
+            {
+                "text": "hej",
+                "translation_en": "hello",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "tack",
+                "translation_en": "thank you",
+                "translation_fr": "merci"
+            },
+            {
+                "text": "katt",
+                "translation_en": "cat",
+                "translation_fr": "chat"
+            },
+            {
+                "text": "hund",
+                "translation_en": "dog",
+                "translation_fr": "chien"
+            },
+            {
+                "text": "blomma",
+                "translation_en": "flower",
+                "translation_fr": "fleur"
+            }
+        ],
+        "normal": [
+            {
+                "text": "god dag",
+                "translation_en": "good day",
+                "translation_fr": "bonne journée"
+            },
+            {
+                "text": "vi ses imorgon",
+                "translation_en": "see you tomorrow",
+                "translation_fr": "à demain"
+            },
+            {
+                "text": "frukost",
+                "translation_en": "breakfast",
+                "translation_fr": "petit déjeuner"
+            },
+            {
+                "text": "hur mår du",
+                "translation_en": "how are you",
+                "translation_fr": "comment ça va"
+            },
+            {
+                "text": "väldigt bra, tack",
+                "translation_en": "very good thank you",
+                "translation_fr": "très bien merci"
+            }
+        ],
+        "hard": [
+            {
+                "text": "det är fint väder idag",
+                "translation_en": "it's nice weather today",
+                "translation_fr": "il fait beau aujourd'hui"
+            },
+            {
+                "text": "jag vill boka ett bord",
+                "translation_en": "I would like to book a table",
+                "translation_fr": "je voudrais réserver une table"
+            },
+            {
+                "text": "det är en vacker dag att gå",
+                "translation_en": "it's a beautiful day to walk",
+                "translation_fr": "c'est une belle journée pour marcher"
+            },
+            {
+                "text": "jag letar efter en bra svensk restaurang",
+                "translation_en": "I'm looking for a good Swedish restaurant",
+                "translation_fr": "je cherche un bon restaurant suédois"
+            },
+            {
+                "text": "kan vi få notan, tack",
+                "translation_en": "can we have the bill please",
+                "translation_fr": "pouvons-nous avoir l'addition s'il vous plaît"
+            }
+        ]
+    },
+    {
+        "language": "Norwegian",
+        "easy": [
+            {
+                "text": "hei",
+                "translation_en": "hello",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "takk",
+                "translation_en": "thank you",
+                "translation_fr": "merci"
+            },
+            {
+                "text": "katt",
+                "translation_en": "cat",
+                "translation_fr": "chat"
+            },
+            {
+                "text": "hund",
+                "translation_en": "dog",
+                "translation_fr": "chien"
+            },
+            {
+                "text": "blomst",
+                "translation_en": "flower",
+                "translation_fr": "fleur"
+            }
+        ],
+        "normal": [
+            {
+                "text": "god dag",
+                "translation_en": "good day",
+                "translation_fr": "bonne journée"
+            },
+            {
+                "text": "vi sees i morgen",
+                "translation_en": "see you tomorrow",
+                "translation_fr": "à demain"
+            },
+            {
+                "text": "frokost",
+                "translation_en": "breakfast",
+                "translation_fr": "petit déjeuner"
+            },
+            {
+                "text": "hvordan har du det",
+                "translation_en": "how are you",
+                "translation_fr": "comment ça va"
+            },
+            {
+                "text": "veldig bra, takk",
+                "translation_en": "very good thank you",
+                "translation_fr": "très bien merci"
+            }
+        ],
+        "hard": [
+            {
+                "text": "det er fint vær i dag",
+                "translation_en": "it's nice weather today",
+                "translation_fr": "il fait beau aujourd'hui"
+            },
+            {
+                "text": "jeg vil gjerne reservere et bord",
+                "translation_en": "I would like to book a table",
+                "translation_fr": "je voudrais réserver une table"
+            },
+            {
+                "text": "det er en vakker dag for en tur",
+                "translation_en": "it's a beautiful day to walk",
+                "translation_fr": "c'est une belle journée pour marcher"
+            },
+            {
+                "text": "jeg leter etter en god norsk restaurant",
+                "translation_en": "I'm looking for a good Norwegian restaurant",
+                "translation_fr": "je cherche un bon restaurant norvégien"
+            },
+            {
+                "text": "kan vi få regningen, vær så snill",
+                "translation_en": "can we have the bill please",
+                "translation_fr": "pouvons-nous avoir l'addition s'il vous plaît"
+            }
+        ]
+    },
+    {
+        "language": "Finnish",
+        "easy": [
+            {
+                "text": "hei",
+                "translation_en": "hello",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "kiitos",
+                "translation_en": "thank you",
+                "translation_fr": "merci"
+            },
+            {
+                "text": "kissa",
+                "translation_en": "cat",
+                "translation_fr": "chat"
+            },
+            {
+                "text": "koira",
+                "translation_en": "dog",
+                "translation_fr": "chien"
+            },
+            {
+                "text": "kukka",
+                "translation_en": "flower",
+                "translation_fr": "fleur"
+            }
+        ],
+        "normal": [
+            {
+                "text": "hyvää päivää",
+                "translation_en": "good day",
+                "translation_fr": "bonne journée"
+            },
+            {
+                "text": "nähdään huomenna",
+                "translation_en": "see you tomorrow",
+                "translation_fr": "à demain"
+            },
+            {
+                "text": "aamiainen",
+                "translation_en": "breakfast",
+                "translation_fr": "petit déjeuner"
+            },
+            {
+                "text": "miten menee",
+                "translation_en": "how are you",
+                "translation_fr": "comment ça va"
+            },
+            {
+                "text": "hyvin kiitos",
+                "translation_en": "very good thank you",
+                "translation_fr": "très bien merci"
+            }
+        ],
+        "hard": [
+            {
+                "text": "tänään on kaunis sää",
+                "translation_en": "it's nice weather today",
+                "translation_fr": "il fait beau aujourd'hui"
+            },
+            {
+                "text": "haluaisin varata pöydän",
+                "translation_en": "I would like to book a table",
+                "translation_fr": "je voudrais réserver une table"
+            },
+            {
+                "text": "se on kaunis päivä kävellä",
+                "translation_en": "it's a beautiful day to walk",
+                "translation_fr": "c'est une belle journée pour marcher"
+            },
+            {
+                "text": "etsin hyvää suomalaista ravintolaa",
+                "translation_en": "I'm looking for a good Finnish restaurant",
+                "translation_fr": "je cherche un bon restaurant finlandais"
+            },
+            {
+                "text": "voimmeko saada laskun, kiitos",
+                "translation_en": "can we have the bill please",
+                "translation_fr": "pouvons-nous avoir l'addition s'il vous plaît"
+            }
+        ]
+    },
+    {
+        "language": "Arabic",
+        "easy": [
+            {
+                "text": "مرحبا",
+                "translation_en": "hello",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "شكرا",
+                "translation_en": "thank you",
+                "translation_fr": "merci"
+            },
+            {
+                "text": "قط",
+                "translation_en": "cat",
+                "translation_fr": "chat"
+            },
+            {
+                "text": "كلب",
+                "translation_en": "dog",
+                "translation_fr": "chien"
+            },
+            {
+                "text": "زهرة",
+                "translation_en": "flower",
+                "translation_fr": "fleur"
+            }
+        ],
+        "normal": [
+            {
+                "text": "صباح الخير",
+                "translation_en": "good morning",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "أراك غدا",
+                "translation_en": "see you tomorrow",
+                "translation_fr": "à demain"
+            },
+            {
+                "text": "فطور",
+                "translation_en": "breakfast",
+                "translation_fr": "petit déjeuner"
+            },
+            {
+                "text": "كيف حالك",
+                "translation_en": "how are you",
+                "translation_fr": "comment ça va"
+            },
+            {
+                "text": "بخير شكرا",
+                "translation_en": "very good thank you",
+                "translation_fr": "très bien merci"
+            }
+        ],
+        "hard": [
+            {
+                "text": "الطقس جميل اليوم",
+                "translation_en": "it's nice weather today",
+                "translation_fr": "il fait beau aujourd'hui"
+            },
+            {
+                "text": "أود حجز طاولة",
+                "translation_en": "I would like to book a table",
+                "translation_fr": "je voudrais réserver une table"
+            },
+            {
+                "text": "إنه يوم جميل للمشي",
+                "translation_en": "it's a beautiful day to walk",
+                "translation_fr": "c'est une belle journée pour marcher"
+            },
+            {
+                "text": "أبحث عن مطعم عربي جيد",
+                "translation_en": "I'm looking for a good Arabic restaurant",
+                "translation_fr": "je cherche un bon restaurant arabe"
+            },
+            {
+                "text": "هل يمكننا الحصول على الفاتورة من فضلك",
+                "translation_en": "can we have the bill please",
+                "translation_fr": "pouvons-nous avoir l'addition s'il vous plaît"
+            }
+        ]
+    },
+    {
+        "language": "Japanese",
+        "easy": [
+            {
+                "text": "こんにちは",
+                "translation_en": "hello",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "ありがとう",
+                "translation_en": "thank you",
+                "translation_fr": "merci"
+            },
+            {
+                "text": "猫",
+                "translation_en": "cat",
+                "translation_fr": "chat"
+            },
+            {
+                "text": "犬",
+                "translation_en": "dog",
+                "translation_fr": "chien"
+            },
+            {
+                "text": "花",
+                "translation_en": "flower",
+                "translation_fr": "fleur"
+            }
+        ],
+        "normal": [
+            {
+                "text": "おはようございます",
+                "translation_en": "good morning",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "また明日",
+                "translation_en": "see you tomorrow",
+                "translation_fr": "à demain"
+            },
+            {
+                "text": "朝ごはん",
+                "translation_en": "breakfast",
+                "translation_fr": "petit déjeuner"
+            },
+            {
+                "text": "元気ですか",
+                "translation_en": "how are you",
+                "translation_fr": "comment ça va"
+            },
+            {
+                "text": "とても元気です、ありがとう",
+                "translation_en": "very good thank you",
+                "translation_fr": "très bien merci"
+            }
+        ],
+        "hard": [
+            {
+                "text": "今日は天気がいいです",
+                "translation_en": "it's nice weather today",
+                "translation_fr": "il fait beau aujourd'hui"
+            },
+            {
+                "text": "テーブルを予約したいです",
+                "translation_en": "I would like to book a table",
+                "translation_fr": "je voudrais réserver une table"
+            },
+            {
+                "text": "散歩にぴったりの日です",
+                "translation_en": "it's a beautiful day to walk",
+                "translation_fr": "c'est une belle journée pour marcher"
+            },
+            {
+                "text": "良い和食レストランを探しています",
+                "translation_en": "I'm looking for a good Japanese restaurant",
+                "translation_fr": "je cherche un bon restaurant japonais"
+            },
+            {
+                "text": "お勘定をお願いします",
+                "translation_en": "can we have the bill please",
+                "translation_fr": "pouvons-nous avoir l'addition s'il vous plaît"
+            }
+        ]
+    },
+    {
+        "language": "Korean",
+        "easy": [
+            {
+                "text": "안녕하세요",
+                "translation_en": "hello",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "감사합니다",
+                "translation_en": "thank you",
+                "translation_fr": "merci"
+            },
+            {
+                "text": "고양이",
+                "translation_en": "cat",
+                "translation_fr": "chat"
+            },
+            {
+                "text": "개",
+                "translation_en": "dog",
+                "translation_fr": "chien"
+            },
+            {
+                "text": "꽃",
+                "translation_en": "flower",
+                "translation_fr": "fleur"
+            }
+        ],
+        "normal": [
+            {
+                "text": "좋은 아침입니다",
+                "translation_en": "good morning",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "내일 봐요",
+                "translation_en": "see you tomorrow",
+                "translation_fr": "à demain"
+            },
+            {
+                "text": "아침 식사",
+                "translation_en": "breakfast",
+                "translation_fr": "petit déjeuner"
+            },
+            {
+                "text": "어떻게 지내세요",
+                "translation_en": "how are you",
+                "translation_fr": "comment ça va"
+            },
+            {
+                "text": "아주 좋아요 감사합니다",
+                "translation_en": "very good thank you",
+                "translation_fr": "très bien merci"
+            }
+        ],
+        "hard": [
+            {
+                "text": "오늘은 날씨가 좋습니다",
+                "translation_en": "it's nice weather today",
+                "translation_fr": "il fait beau aujourd'hui"
+            },
+            {
+                "text": "테이블을 예약하고 싶습니다",
+                "translation_en": "I would like to book a table",
+                "translation_fr": "je voudrais réserver une table"
+            },
+            {
+                "text": "산책하기 좋은 날입니다",
+                "translation_en": "it's a beautiful day to walk",
+                "translation_fr": "c'est une belle journée pour marcher"
+            },
+            {
+                "text": "좋은 한국 식당을 찾고 있습니다",
+                "translation_en": "I'm looking for a good Korean restaurant",
+                "translation_fr": "je cherche un bon restaurant coréen"
+            },
+            {
+                "text": "계산서 부탁합니다",
+                "translation_en": "can we have the bill please",
+                "translation_fr": "pouvons-nous avoir l'addition s'il vous plaît"
+            }
+        ]
+    },
+    {
+        "language": "Greek",
+        "easy": [
+            {
+                "text": "γεια",
+                "translation_en": "hello",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "ευχαριστώ",
+                "translation_en": "thank you",
+                "translation_fr": "merci"
+            },
+            {
+                "text": "γάτα",
+                "translation_en": "cat",
+                "translation_fr": "chat"
+            },
+            {
+                "text": "σκύλος",
+                "translation_en": "dog",
+                "translation_fr": "chien"
+            },
+            {
+                "text": "λουλούδι",
+                "translation_en": "flower",
+                "translation_fr": "fleur"
+            }
+        ],
+        "normal": [
+            {
+                "text": "καλημέρα",
+                "translation_en": "good morning",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "τα λέμε αύριο",
+                "translation_en": "see you tomorrow",
+                "translation_fr": "à demain"
+            },
+            {
+                "text": "πρωινό",
+                "translation_en": "breakfast",
+                "translation_fr": "petit déjeuner"
+            },
+            {
+                "text": "πώς είσαι",
+                "translation_en": "how are you",
+                "translation_fr": "comment ça va"
+            },
+            {
+                "text": "πολύ καλά ευχαριστώ",
+                "translation_en": "very good thank you",
+                "translation_fr": "très bien merci"
+            }
+        ],
+        "hard": [
+            {
+                "text": "ο καιρός είναι καλός σήμερα",
+                "translation_en": "it's nice weather today",
+                "translation_fr": "il fait beau aujourd'hui"
+            },
+            {
+                "text": "θα ήθελα να κλείσω τραπέζι",
+                "translation_en": "I would like to book a table",
+                "translation_fr": "je voudrais réserver une table"
+            },
+            {
+                "text": "είναι όμορφη μέρα για περπάτημα",
+                "translation_en": "it's a beautiful day to walk",
+                "translation_fr": "c'est une belle journée pour marcher"
+            },
+            {
+                "text": "ψάχνω για ένα καλό ελληνικό εστιατόριο",
+                "translation_en": "I'm looking for a good Greek restaurant",
+                "translation_fr": "je cherche un bon restaurant grec"
+            },
+            {
+                "text": "μπορούμε να έχουμε τον λογαριασμό παρακαλώ",
+                "translation_en": "can we have the bill please",
+                "translation_fr": "pouvons-nous avoir l'addition s'il vous plaît"
+            }
+        ]
+    },
+    {
+        "language": "Thai",
+        "easy": [
+            {
+                "text": "สวัสดี",
+                "translation_en": "hello",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "ขอบคุณ",
+                "translation_en": "thank you",
+                "translation_fr": "merci"
+            },
+            {
+                "text": "แมว",
+                "translation_en": "cat",
+                "translation_fr": "chat"
+            },
+            {
+                "text": "สุนัข",
+                "translation_en": "dog",
+                "translation_fr": "chien"
+            },
+            {
+                "text": "ดอกไม้",
+                "translation_en": "flower",
+                "translation_fr": "fleur"
+            }
+        ],
+        "normal": [
+            {
+                "text": "สวัสดีตอนเช้า",
+                "translation_en": "good morning",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "เจอกันพรุ่งนี้",
+                "translation_en": "see you tomorrow",
+                "translation_fr": "à demain"
+            },
+            {
+                "text": "อาหารเช้า",
+                "translation_en": "breakfast",
+                "translation_fr": "petit déjeuner"
+            },
+            {
+                "text": "คุณเป็นอย่างไรบ้าง",
+                "translation_en": "how are you",
+                "translation_fr": "comment ça va"
+            },
+            {
+                "text": "ดีมาก ขอบคุณ",
+                "translation_en": "very good thank you",
+                "translation_fr": "très bien merci"
+            }
+        ],
+        "hard": [
+            {
+                "text": "วันนี้อากาศดี",
+                "translation_en": "it's nice weather today",
+                "translation_fr": "il fait beau aujourd'hui"
+            },
+            {
+                "text": "ฉันต้องการจองโต๊ะ",
+                "translation_en": "I would like to book a table",
+                "translation_fr": "je voudrais réserver une table"
+            },
+            {
+                "text": "วันนี้เป็นวันที่สวยงามสำหรับการเดิน",
+                "translation_en": "it's a beautiful day to walk",
+                "translation_fr": "c'est une belle journée pour marcher"
+            },
+            {
+                "text": "ฉันกำลังมองหาร้านอาหารไทยดีๆ",
+                "translation_en": "I'm looking for a good Thai restaurant",
+                "translation_fr": "je cherche un bon restaurant thaïlandais"
+            },
+            {
+                "text": "ขอบัญชีด้วยครับ/ค่ะ",
+                "translation_en": "can we have the bill please",
+                "translation_fr": "pouvons-nous avoir l'addition s'il vous plaît"
+            }
+        ]
+    },
+    {
+        "language": "Indonesian",
+        "easy": [
+            {
+                "text": "halo",
+                "translation_en": "hello",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "terima kasih",
+                "translation_en": "thank you",
+                "translation_fr": "merci"
+            },
+            {
+                "text": "kucing",
+                "translation_en": "cat",
+                "translation_fr": "chat"
+            },
+            {
+                "text": "anjing",
+                "translation_en": "dog",
+                "translation_fr": "chien"
+            },
+            {
+                "text": "bunga",
+                "translation_en": "flower",
+                "translation_fr": "fleur"
+            }
+        ],
+        "normal": [
+            {
+                "text": "selamat pagi",
+                "translation_en": "good morning",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "sampai jumpa besok",
+                "translation_en": "see you tomorrow",
+                "translation_fr": "à demain"
+            },
+            {
+                "text": "sarapan",
+                "translation_en": "breakfast",
+                "translation_fr": "petit déjeuner"
+            },
+            {
+                "text": "apa kabar",
+                "translation_en": "how are you",
+                "translation_fr": "comment ça va"
+            },
+            {
+                "text": "baik sekali, terima kasih",
+                "translation_en": "very good thank you",
+                "translation_fr": "très bien merci"
+            }
+        ],
+        "hard": [
+            {
+                "text": "cuaca hari ini cerah",
+                "translation_en": "it's nice weather today",
+                "translation_fr": "il fait beau aujourd'hui"
+            },
+            {
+                "text": "saya ingin memesan meja",
+                "translation_en": "I would like to book a table",
+                "translation_fr": "je voudrais réserver une table"
+            },
+            {
+                "text": "hari ini hari yang indah untuk berjalan",
+                "translation_en": "it's a beautiful day to walk",
+                "translation_fr": "c'est une belle journée pour marcher"
+            },
+            {
+                "text": "saya mencari restoran Indonesia yang bagus",
+                "translation_en": "I'm looking for a good Indonesian restaurant",
+                "translation_fr": "je cherche un bon restaurant indonésien"
+            },
+            {
+                "text": "bolehkah kami minta tagihan",
+                "translation_en": "can we have the bill please",
+                "translation_fr": "pouvons-nous avoir l'addition s'il vous plaît"
+            }
+        ]
+    },
+    {
+        "language": "Thai",
+        "easy": [
+            {
+                "text": "สวัสดี",
+                "translation_en": "hello",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "ขอบคุณ",
+                "translation_en": "thank you",
+                "translation_fr": "merci"
+            },
+            {
+                "text": "แมว",
+                "translation_en": "cat",
+                "translation_fr": "chat"
+            },
+            {
+                "text": "สุนัข",
+                "translation_en": "dog",
+                "translation_fr": "chien"
+            },
+            {
+                "text": "ดอกไม้",
+                "translation_en": "flower",
+                "translation_fr": "fleur"
+            }
+        ],
+        "normal": [
+            {
+                "text": "สวัสดีตอนเช้า",
+                "translation_en": "good morning",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "เจอกันพรุ่งนี้",
+                "translation_en": "see you tomorrow",
+                "translation_fr": "à demain"
+            },
+            {
+                "text": "อาหารเช้า",
+                "translation_en": "breakfast",
+                "translation_fr": "petit déjeuner"
+            },
+            {
+                "text": "คุณเป็นอย่างไรบ้าง",
+                "translation_en": "how are you",
+                "translation_fr": "comment ça va"
+            },
+            {
+                "text": "ดีมาก ขอบคุณ",
+                "translation_en": "very good thank you",
+                "translation_fr": "très bien merci"
+            }
+        ],
+        "hard": [
+            {
+                "text": "วันนี้อากาศดี",
+                "translation_en": "it's nice weather today",
+                "translation_fr": "il fait beau aujourd'hui"
+            },
+            {
+                "text": "ฉันต้องการจองโต๊ะ",
+                "translation_en": "I would like to book a table",
+                "translation_fr": "je voudrais réserver une table"
+            },
+            {
+                "text": "วันนี้เป็นวันที่สวยงามสำหรับการเดิน",
+                "translation_en": "it's a beautiful day to walk",
+                "translation_fr": "c'est une belle journée pour marcher"
+            },
+            {
+                "text": "ฉันกำลังมองหาร้านอาหารไทยดีๆ",
+                "translation_en": "I'm looking for a good Thai restaurant",
+                "translation_fr": "je cherche un bon restaurant thaïlandais"
+            },
+            {
+                "text": "ขอบัญชีด้วยครับ/ค่ะ",
+                "translation_en": "can we have the bill please",
+                "translation_fr": "pouvons-nous avoir l'addition s'il vous plaît"
+            }
+        ]
+    },
+    {
+        "language": "Indonesian",
+        "easy": [
+            {
+                "text": "halo",
+                "translation_en": "hello",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "terima kasih",
+                "translation_en": "thank you",
+                "translation_fr": "merci"
+            },
+            {
+                "text": "kucing",
+                "translation_en": "cat",
+                "translation_fr": "chat"
+            },
+            {
+                "text": "anjing",
+                "translation_en": "dog",
+                "translation_fr": "chien"
+            },
+            {
+                "text": "bunga",
+                "translation_en": "flower",
+                "translation_fr": "fleur"
+            }
+        ],
+        "normal": [
+            {
+                "text": "selamat pagi",
+                "translation_en": "good morning",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "sampai jumpa besok",
+                "translation_en": "see you tomorrow",
+                "translation_fr": "à demain"
+            },
+            {
+                "text": "sarapan",
+                "translation_en": "breakfast",
+                "translation_fr": "petit déjeuner"
+            },
+            {
+                "text": "apa kabar",
+                "translation_en": "how are you",
+                "translation_fr": "comment ça va"
+            },
+            {
+                "text": "baik sekali, terima kasih",
+                "translation_en": "very good thank you",
+                "translation_fr": "très bien merci"
+            }
+        ],
+        "hard": [
+            {
+                "text": "cuaca hari ini cerah",
+                "translation_en": "it's nice weather today",
+                "translation_fr": "il fait beau aujourd'hui"
+            },
+            {
+                "text": "saya ingin memesan meja",
+                "translation_en": "I would like to book a table",
+                "translation_fr": "je voudrais réserver une table"
+            },
+            {
+                "text": "hari ini hari yang indah untuk berjalan",
+                "translation_en": "it's a beautiful day to walk",
+                "translation_fr": "c'est une belle journée pour marcher"
+            },
+            {
+                "text": "saya mencari restoran Indonesia yang bagus",
+                "translation_en": "I'm looking for a good Indonesian restaurant",
+                "translation_fr": "je cherche un bon restaurant indonésien"
+            },
+            {
+                "text": "bolehkah kami minta tagihan",
+                "translation_en": "can we have the bill please",
+                "translation_fr": "pouvons-nous avoir l'addition s'il vous plaît"
+            }
+        ]
+    },
+    {
+        "language": "Ukrainian",
+        "easy": [
+            {
+                "text": "привіт",
+                "translation_en": "hello",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "дякую",
+                "translation_en": "thank you",
+                "translation_fr": "merci"
+            },
+            {
+                "text": "кіт",
+                "translation_en": "cat",
+                "translation_fr": "chat"
+            },
+            {
+                "text": "собака",
+                "translation_en": "dog",
+                "translation_fr": "chien"
+            },
+            {
+                "text": "квітка",
+                "translation_en": "flower",
+                "translation_fr": "fleur"
+            }
+        ],
+        "normal": [
+            {
+                "text": "доброго ранку",
+                "translation_en": "good morning",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "побачимось завтра",
+                "translation_en": "see you tomorrow",
+                "translation_fr": "à demain"
+            },
+            {
+                "text": "сніданок",
+                "translation_en": "breakfast",
+                "translation_fr": "petit déjeuner"
+            },
+            {
+                "text": "як справи",
+                "translation_en": "how are you",
+                "translation_fr": "comment ça va"
+            },
+            {
+                "text": "дуже добре, дякую",
+                "translation_en": "very good thank you",
+                "translation_fr": "très bien merci"
+            }
+        ],
+        "hard": [
+            {
+                "text": "сьогодні гарна погода",
+                "translation_en": "it's nice weather today",
+                "translation_fr": "il fait beau aujourd'hui"
+            },
+            {
+                "text": "я хочу забронювати стіл",
+                "translation_en": "I would like to book a table",
+                "translation_fr": "je voudrais réserver une table"
+            },
+            {
+                "text": "сьогодні чудовий день для прогулянки",
+                "translation_en": "it's a beautiful day to walk",
+                "translation_fr": "c'est une belle journée pour marcher"
+            },
+            {
+                "text": "я шукаю гарний український ресторан",
+                "translation_en": "I'm looking for a good Ukrainian restaurant",
+                "translation_fr": "je cherche un bon restaurant ukrainien"
+            },
+            {
+                "text": "можна рахунок, будь ласка",
+                "translation_en": "can we have the bill please",
+                "translation_fr": "pouvons-nous avoir l'addition s'il vous plaît"
+            }
+        ]
+    },
+    {
+        "language": "Romanian",
+        "easy": [
+            {
+                "text": "salut",
+                "translation_en": "hello",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "mulțumesc",
+                "translation_en": "thank you",
+                "translation_fr": "merci"
+            },
+            {
+                "text": "pisică",
+                "translation_en": "cat",
+                "translation_fr": "chat"
+            },
+            {
+                "text": "câine",
+                "translation_en": "dog",
+                "translation_fr": "chien"
+            },
+            {
+                "text": "floare",
+                "translation_en": "flower",
+                "translation_fr": "fleur"
+            }
+        ],
+        "normal": [
+            {
+                "text": "bună dimineața",
+                "translation_en": "good morning",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "ne vedem mâine",
+                "translation_en": "see you tomorrow",
+                "translation_fr": "à demain"
+            },
+            {
+                "text": "mic dejun",
+                "translation_en": "breakfast",
+                "translation_fr": "petit déjeuner"
+            },
+            {
+                "text": "ce mai faci",
+                "translation_en": "how are you",
+                "translation_fr": "comment ça va"
+            },
+            {
+                "text": "foarte bine, mulțumesc",
+                "translation_en": "very good thank you",
+                "translation_fr": "très bien merci"
+            }
+        ],
+        "hard": [
+            {
+                "text": "astăzi este o zi frumoasă",
+                "translation_en": "it's nice weather today",
+                "translation_fr": "il fait beau aujourd'hui"
+            },
+            {
+                "text": "aș dori să rezerv o masă",
+                "translation_en": "I would like to book a table",
+                "translation_fr": "je voudrais réserver une table"
+            },
+            {
+                "text": "este o zi frumoasă pentru o plimbare",
+                "translation_en": "it's a beautiful day to walk",
+                "translation_fr": "c'est une belle journée pour marcher"
+            },
+            {
+                "text": "caut un restaurant românesc bun",
+                "translation_en": "I'm looking for a good Romanian restaurant",
+                "translation_fr": "je cherche un bon restaurant roumain"
+            },
+            {
+                "text": "puteți aduce nota de plată, vă rog",
+                "translation_en": "can we have the bill please",
+                "translation_fr": "pouvons-nous avoir l'addition s'il vous plaît"
+            }
+        ]
+    },
+    {
+        "language": "Hebrew",
+        "easy": [
+            {
+                "text": "שלום",
+                "translation_en": "hello",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "תודה",
+                "translation_en": "thank you",
+                "translation_fr": "merci"
+            },
+            {
+                "text": "חתול",
+                "translation_en": "cat",
+                "translation_fr": "chat"
+            },
+            {
+                "text": "כלב",
+                "translation_en": "dog",
+                "translation_fr": "chien"
+            },
+            {
+                "text": "פרח",
+                "translation_en": "flower",
+                "translation_fr": "fleur"
+            }
+        ],
+        "normal": [
+            {
+                "text": "בוקר טוב",
+                "translation_en": "good morning",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "נתראה מחר",
+                "translation_en": "see you tomorrow",
+                "translation_fr": "à demain"
+            },
+            {
+                "text": "ארוחת בוקר",
+                "translation_en": "breakfast",
+                "translation_fr": "petit déjeuner"
+            },
+            {
+                "text": "מה שלומך",
+                "translation_en": "how are you",
+                "translation_fr": "comment ça va"
+            },
+            {
+                "text": "טוב מאוד תודה",
+                "translation_en": "very good thank you",
+                "translation_fr": "très bien merci"
+            }
+        ],
+        "hard": [
+            {
+                "text": "היום מזג האוויר יפה",
+                "translation_en": "it's nice weather today",
+                "translation_fr": "il fait beau aujourd'hui"
+            },
+            {
+                "text": "אני רוצה להזמין שולחן",
+                "translation_en": "I would like to book a table",
+                "translation_fr": "je voudrais réserver une table"
+            },
+            {
+                "text": "זהו יום יפה להליכה",
+                "translation_en": "it's a beautiful day to walk",
+                "translation_fr": "c'est une belle journée pour marcher"
+            },
+            {
+                "text": "אני מחפש מסעדה ישראלית טובה",
+                "translation_en": "I'm looking for a good Israeli restaurant",
+                "translation_fr": "je cherche un bon restaurant israélien"
+            },
+            {
+                "text": "אפשר את החשבון בבקשה",
+                "translation_en": "can we have the bill please",
+                "translation_fr": "pouvons-nous avoir l'addition s'il vous plaît"
+            }
+        ]
+    },
+    {
+        "language": "Hungarian",
+        "easy": [
+            {
+                "text": "helló",
+                "translation_en": "hello",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "köszönöm",
+                "translation_en": "thank you",
+                "translation_fr": "merci"
+            },
+            {
+                "text": "macska",
+                "translation_en": "cat",
+                "translation_fr": "chat"
+            },
+            {
+                "text": "kutya",
+                "translation_en": "dog",
+                "translation_fr": "chien"
+            },
+            {
+                "text": "virág",
+                "translation_en": "flower",
+                "translation_fr": "fleur"
+            }
+        ],
+        "normal": [
+            {
+                "text": "jó reggelt",
+                "translation_en": "good morning",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "találkozunk holnap",
+                "translation_en": "see you tomorrow",
+                "translation_fr": "à demain"
+            },
+            {
+                "text": "reggeli",
+                "translation_en": "breakfast",
+                "translation_fr": "petit déjeuner"
+            },
+            {
+                "text": "hogy vagy",
+                "translation_en": "how are you",
+                "translation_fr": "comment ça va"
+            },
+            {
+                "text": "nagyon jól, köszönöm",
+                "translation_en": "very good thank you",
+                "translation_fr": "très bien merci"
+            }
+        ],
+        "hard": [
+            {
+                "text": "ma szép idő van",
+                "translation_en": "it's nice weather today",
+                "translation_fr": "il fait beau aujourd'hui"
+            },
+            {
+                "text": "asztalt szeretnék foglalni",
+                "translation_en": "I would like to book a table",
+                "translation_fr": "je voudrais réserver une table"
+            },
+            {
+                "text": "szép nap a sétához",
+                "translation_en": "it's a beautiful day to walk",
+                "translation_fr": "c'est une belle journée pour marcher"
+            },
+            {
+                "text": "egy jó magyar éttermet keresek",
+                "translation_en": "I'm looking for a good Hungarian restaurant",
+                "translation_fr": "je cherche un bon restaurant hongrois"
+            },
+            {
+                "text": "kérhetnénk a számlát",
+                "translation_en": "can we have the bill please",
+                "translation_fr": "pouvons-nous avoir l'addition s'il vous plaît"
+            }
+        ]
+    },
+    {
+        "language": "Czech",
+        "easy": [
+            {
+                "text": "ahoj",
+                "translation_en": "hello",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "děkuji",
+                "translation_en": "thank you",
+                "translation_fr": "merci"
+            },
+            {
+                "text": "kočka",
+                "translation_en": "cat",
+                "translation_fr": "chat"
+            },
+            {
+                "text": "pes",
+                "translation_en": "dog",
+                "translation_fr": "chien"
+            },
+            {
+                "text": "květina",
+                "translation_en": "flower",
+                "translation_fr": "fleur"
+            }
+        ],
+        "normal": [
+            {
+                "text": "dobré ráno",
+                "translation_en": "good morning",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "uvidíme se zítra",
+                "translation_en": "see you tomorrow",
+                "translation_fr": "à demain"
+            },
+            {
+                "text": "snídaně",
+                "translation_en": "breakfast",
+                "translation_fr": "petit déjeuner"
+            },
+            {
+                "text": "jak se máš",
+                "translation_en": "how are you",
+                "translation_fr": "comment ça va"
+            },
+            {
+                "text": "velmi dobře, děkuji",
+                "translation_en": "very good thank you",
+                "translation_fr": "très bien merci"
+            }
+        ],
+        "hard": [
+            {
+                "text": "dnes je krásné počasí",
+                "translation_en": "it's nice weather today",
+                "translation_fr": "il fait beau aujourd'hui"
+            },
+            {
+                "text": "chtěl bych si rezervovat stůl",
+                "translation_en": "I would like to book a table",
+                "translation_fr": "je voudrais réserver une table"
+            },
+            {
+                "text": "je krásný den na procházku",
+                "translation_en": "it's a beautiful day to walk",
+                "translation_fr": "c'est une belle journée pour marcher"
+            },
+            {
+                "text": "hledám dobrý český restaurant",
+                "translation_en": "I'm looking for a good Czech restaurant",
+                "translation_fr": "je cherche un bon restaurant tchèque"
+            },
+            {
+                "text": "můžeme dostat účet prosím",
+                "translation_en": "can we have the bill please",
+                "translation_fr": "pouvons-nous avoir l'addition s'il vous plaît"
+            }
+        ]
+    },
+    {
+        "language": "Bulgarian",
+        "easy": [
+            {
+                "text": "здравей",
+                "translation_en": "hello",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "благодаря",
+                "translation_en": "thank you",
+                "translation_fr": "merci"
+            },
+            {
+                "text": "котка",
+                "translation_en": "cat",
+                "translation_fr": "chat"
+            },
+            {
+                "text": "куче",
+                "translation_en": "dog",
+                "translation_fr": "chien"
+            },
+            {
+                "text": "цвете",
+                "translation_en": "flower",
+                "translation_fr": "fleur"
+            }
+        ],
+        "normal": [
+            {
+                "text": "добро утро",
+                "translation_en": "good morning",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "ще се видим утре",
+                "translation_en": "see you tomorrow",
+                "translation_fr": "à demain"
+            },
+            {
+                "text": "закуска",
+                "translation_en": "breakfast",
+                "translation_fr": "petit déjeuner"
+            },
+            {
+                "text": "как си",
+                "translation_en": "how are you",
+                "translation_fr": "comment ça va"
+            },
+            {
+                "text": "много добре, благодаря",
+                "translation_en": "very good thank you",
+                "translation_fr": "très bien merci"
+            }
+        ],
+        "hard": [
+            {
+                "text": "днес времето е хубаво",
+                "translation_en": "it's nice weather today",
+                "translation_fr": "il fait beau aujourd'hui"
+            },
+            {
+                "text": "бих искал да резервирам маса",
+                "translation_en": "I would like to book a table",
+                "translation_fr": "je voudrais réserver une table"
+            },
+            {
+                "text": "днес е чудесен ден за разходка",
+                "translation_en": "it's a beautiful day to walk",
+                "translation_fr": "c'est une belle journée pour marcher"
+            },
+            {
+                "text": "търся добър български ресторант",
+                "translation_en": "I'm looking for a good Bulgarian restaurant",
+                "translation_fr": "je cherche un bon restaurant bulgare"
+            },
+            {
+                "text": "можем ли да получим сметката моля",
+                "translation_en": "can we have the bill please",
+                "translation_fr": "pouvons-nous avoir l'addition s'il vous plaît"
+            }
+        ]
+    },
+    {
+        "language": "Serbian",
+        "easy": [
+            {
+                "text": "здраво",
+                "translation_en": "hello",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "хвала",
+                "translation_en": "thank you",
+                "translation_fr": "merci"
+            },
+            {
+                "text": "мачка",
+                "translation_en": "cat",
+                "translation_fr": "chat"
+            },
+            {
+                "text": "пас",
+                "translation_en": "dog",
+                "translation_fr": "chien"
+            },
+            {
+                "text": "цвет",
+                "translation_en": "flower",
+                "translation_fr": "fleur"
+            }
+        ],
+        "normal": [
+            {
+                "text": "добро јутро",
+                "translation_en": "good morning",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "видимо се сутра",
+                "translation_en": "see you tomorrow",
+                "translation_fr": "à demain"
+            },
+            {
+                "text": "доручак",
+                "translation_en": "breakfast",
+                "translation_fr": "petit déjeuner"
+            },
+            {
+                "text": "како си",
+                "translation_en": "how are you",
+                "translation_fr": "comment ça va"
+            },
+            {
+                "text": "веома добро хвала",
+                "translation_en": "very good thank you",
+                "translation_fr": "très bien merci"
+            }
+        ],
+        "hard": [
+            {
+                "text": "данас је лепо време",
+                "translation_en": "it's nice weather today",
+                "translation_fr": "il fait beau aujourd'hui"
+            },
+            {
+                "text": "желео бих да резервишем сто",
+                "translation_en": "I would like to book a table",
+                "translation_fr": "je voudrais réserver une table"
+            },
+            {
+                "text": "леп је дан за шетњу",
+                "translation_en": "it's a beautiful day to walk",
+                "translation_fr": "c'est une belle journée pour marcher"
+            },
+            {
+                "text": "тражим добар српски ресторан",
+                "translation_en": "I'm looking for a good Serbian restaurant",
+                "translation_fr": "je cherche un bon restaurant serbe"
+            },
+            {
+                "text": "можемо ли добити рачун молим",
+                "translation_en": "can we have the bill please",
+                "translation_fr": "pouvons-nous avoir l'addition s'il vous plaît"
+            }
+        ]
+    },
+    {
+        "language": "Croatian",
+        "easy": [
+            {
+                "text": "bok",
+                "translation_en": "hello",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "hvala",
+                "translation_en": "thank you",
+                "translation_fr": "merci"
+            },
+            {
+                "text": "mačka",
+                "translation_en": "cat",
+                "translation_fr": "chat"
+            },
+            {
+                "text": "pas",
+                "translation_en": "dog",
+                "translation_fr": "chien"
+            },
+            {
+                "text": "cvijet",
+                "translation_en": "flower",
+                "translation_fr": "fleur"
+            }
+        ],
+        "normal": [
+            {
+                "text": "dobro jutro",
+                "translation_en": "good morning",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "vidimo se sutra",
+                "translation_en": "see you tomorrow",
+                "translation_fr": "à demain"
+            },
+            {
+                "text": "doručak",
+                "translation_en": "breakfast",
+                "translation_fr": "petit déjeuner"
+            },
+            {
+                "text": "kako si",
+                "translation_en": "how are you",
+                "translation_fr": "comment ça va"
+            },
+            {
+                "text": "vrlo dobro, hvala",
+                "translation_en": "very good thank you",
+                "translation_fr": "très bien merci"
+            }
+        ],
+        "hard": [
+            {
+                "text": "danas je lijepo vrijeme",
+                "translation_en": "it's nice weather today",
+                "translation_fr": "il fait beau aujourd'hui"
+            },
+            {
+                "text": "želio bih rezervirati stol",
+                "translation_en": "I would like to book a table",
+                "translation_fr": "je voudrais réserver une table"
+            },
+            {
+                "text": "prekrasan je dan za šetnju",
+                "translation_en": "it's a beautiful day to walk",
+                "translation_fr": "c'est une belle journée pour marcher"
+            },
+            {
+                "text": "tražim dobar hrvatski restoran",
+                "translation_en": "I'm looking for a good Croatian restaurant",
+                "translation_fr": "je cherche un bon restaurant croate"
+            },
+            {
+                "text": "možemo li dobiti račun, molim",
+                "translation_en": "can we have the bill please",
+                "translation_fr": "pouvons-nous avoir l'addition s'il vous plaît"
+            }
+        ]
+    },
+    {
+        "language": "Sinhala",
+        "easy": [
+            {
+                "text": "හෙලෝ",
+                "translation_en": "hello",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "ස්තුතියි",
+                "translation_en": "thank you",
+                "translation_fr": "merci"
+            },
+            {
+                "text": "පූසා",
+                "translation_en": "cat",
+                "translation_fr": "chat"
+            },
+            {
+                "text": "බල්ලා",
+                "translation_en": "dog",
+                "translation_fr": "chien"
+            },
+            {
+                "text": "මල",
+                "translation_en": "flower",
+                "translation_fr": "fleur"
+            }
+        ],
+        "normal": [
+            {
+                "text": "සුභ උදෑසනක්",
+                "translation_en": "good morning",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "හෙට බැලෙමු",
+                "translation_en": "see you tomorrow",
+                "translation_fr": "à demain"
+            },
+            {
+                "text": "උදේ ආහාරය",
+                "translation_en": "breakfast",
+                "translation_fr": "petit déjeuner"
+            },
+            {
+                "text": "ඔයාට කොහොමද",
+                "translation_en": "how are you",
+                "translation_fr": "comment ça va"
+            },
+            {
+                "text": "බොහොම හොඳයි ස්තුතියි",
+                "translation_en": "very good thank you",
+                "translation_fr": "très bien merci"
+            }
+        ],
+        "hard": [
+            {
+                "text": "අද කාලගුණය ලස්සනයි",
+                "translation_en": "it's nice weather today",
+                "translation_fr": "il fait beau aujourd'hui"
+            },
+            {
+                "text": "මම මේසයක් වෙන්කර ගැනීමට කැමතියි",
+                "translation_en": "I would like to book a table",
+                "translation_fr": "je voudrais réserver une table"
+            },
+            {
+                "text": "අද ඇවිදීමට සුන්දර දිනක්",
+                "translation_en": "it's a beautiful day to walk",
+                "translation_fr": "c'est une belle journée pour marcher"
+            },
+            {
+                "text": "මම හොඳ ශ්‍රී ලංකා ආපනශාලාවක් සොයමි",
+                "translation_en": "I'm looking for a good Sri Lankan restaurant",
+                "translation_fr": "je cherche un bon restaurant sri lankais"
+            },
+            {
+                "text": "කණගාටුයි, බිල්පත් ලබාදෙන්න",
+                "translation_en": "can we have the bill please",
+                "translation_fr": "pouvons-nous avoir l'addition s'il vous plaît"
+            }
+        ]
+    },
+    {
+        "language": "Tagalog",
+        "easy": [
+            {
+                "text": "kamusta",
+                "translation_en": "hello",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "salamat",
+                "translation_en": "thank you",
+                "translation_fr": "merci"
+            },
+            {
+                "text": "pusa",
+                "translation_en": "cat",
+                "translation_fr": "chat"
+            },
+            {
+                "text": "aso",
+                "translation_en": "dog",
+                "translation_fr": "chien"
+            },
+            {
+                "text": "bulaklak",
+                "translation_en": "flower",
+                "translation_fr": "fleur"
+            }
+        ],
+        "normal": [
+            {
+                "text": "magandang umaga",
+                "translation_en": "good morning",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "kita tayo bukas",
+                "translation_en": "see you tomorrow",
+                "translation_fr": "à demain"
+            },
+            {
+                "text": "almusal",
+                "translation_en": "breakfast",
+                "translation_fr": "petit déjeuner"
+            },
+            {
+                "text": "kumusta ka",
+                "translation_en": "how are you",
+                "translation_fr": "comment ça va"
+            },
+            {
+                "text": "mabuti naman, salamat",
+                "translation_en": "very good thank you",
+                "translation_fr": "très bien merci"
+            }
+        ],
+        "hard": [
+            {
+                "text": "maganda ang panahon ngayon",
+                "translation_en": "it's nice weather today",
+                "translation_fr": "il fait beau aujourd'hui"
+            },
+            {
+                "text": "gusto ko magpareserba ng mesa",
+                "translation_en": "I would like to book a table",
+                "translation_fr": "je voudrais réserver une table"
+            },
+            {
+                "text": "magandang araw para maglakad",
+                "translation_en": "it's a beautiful day to walk",
+                "translation_fr": "c'est une belle journée pour marcher"
+            },
+            {
+                "text": "naghahanap ako ng magandang restawran",
+                "translation_en": "I'm looking for a good Filipino restaurant",
+                "translation_fr": "je cherche un bon restaurant philippin"
+            },
+            {
+                "text": "pwede ba ang bill",
+                "translation_en": "can we have the bill please",
+                "translation_fr": "pouvons-nous avoir l'addition s'il vous plaît"
+            }
+        ]
+    },
+    {
+        "language": "Malayalam",
+        "easy": [
+            {
+                "text": "ഹലോ",
+                "translation_en": "hello",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "നന്ദി",
+                "translation_en": "thank you",
+                "translation_fr": "merci"
+            },
+            {
+                "text": "പൂച്ച",
+                "translation_en": "cat",
+                "translation_fr": "chat"
+            },
+            {
+                "text": "നായ",
+                "translation_en": "dog",
+                "translation_fr": "chien"
+            },
+            {
+                "text": "പൂവ്",
+                "translation_en": "flower",
+                "translation_fr": "fleur"
+            }
+        ],
+        "normal": [
+            {
+                "text": "സുപ്രഭാതം",
+                "translation_en": "good morning",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "നാളെ കാണാം",
+                "translation_en": "see you tomorrow",
+                "translation_fr": "à demain"
+            },
+            {
+                "text": "പ്രഭാതഭക്ഷണം",
+                "translation_en": "breakfast",
+                "translation_fr": "petit déjeuner"
+            },
+            {
+                "text": "സുഖമാണോ",
+                "translation_en": "how are you",
+                "translation_fr": "comment ça va"
+            },
+            {
+                "text": "വളരെ നല്ലതാണ്, നന്ദി",
+                "translation_en": "very good thank you",
+                "translation_fr": "très bien merci"
+            }
+        ],
+        "hard": [
+            {
+                "text": "ഇന്ന് നല്ല കാലാവസ്ഥയാണ്",
+                "translation_en": "it's nice weather today",
+                "translation_fr": "il fait beau aujourd'hui"
+            },
+            {
+                "text": "ഒരു മേശ ബുക്ക് ചെയ്യണം",
+                "translation_en": "I would like to book a table",
+                "translation_fr": "je voudrais réserver une table"
+            },
+            {
+                "text": "ഇന്ന് നടക്കാൻ നല്ല ദിവസം",
+                "translation_en": "it's a beautiful day to walk",
+                "translation_fr": "c'est une belle journée pour marcher"
+            },
+            {
+                "text": "ഒരു നല്ല മലയാളം റെസ്റ്റോറന്റ് ഞാൻ അന്വേഷിക്കുന്നു",
+                "translation_en": "I'm looking for a good Malayalam restaurant",
+                "translation_fr": "je cherche un bon restaurant malayalam"
+            },
+            {
+                "text": "ബിൽ തരാമോ ദയവായി",
+                "translation_en": "can we have the bill please",
+                "translation_fr": "pouvons-nous avoir l'addition s'il vous plaît"
+            }
+        ]
+    },
+    {
+        "language": "Kannada",
+        "easy": [
+            {
+                "text": "ಹಲೋ",
+                "translation_en": "hello",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "ಧನ್ಯವಾದಗಳು",
+                "translation_en": "thank you",
+                "translation_fr": "merci"
+            },
+            {
+                "text": "ಬೆಕ್ಕು",
+                "translation_en": "cat",
+                "translation_fr": "chat"
+            },
+            {
+                "text": "ನಾಯಿ",
+                "translation_en": "dog",
+                "translation_fr": "chien"
+            },
+            {
+                "text": "ಹೂವು",
+                "translation_en": "flower",
+                "translation_fr": "fleur"
+            }
+        ],
+        "normal": [
+            {
+                "text": "ಶುಭೋದಯ",
+                "translation_en": "good morning",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "ನಾಳೆ ಭೇಟಿಯಾಗೋಣ",
+                "translation_en": "see you tomorrow",
+                "translation_fr": "à demain"
+            },
+            {
+                "text": "ಬೆಳಗಿನ ಉಪಹಾರ",
+                "translation_en": "breakfast",
+                "translation_fr": "petit déjeuner"
+            },
+            {
+                "text": "ನೀವು ಹೇಗಿದ್ದೀರಿ",
+                "translation_en": "how are you",
+                "translation_fr": "comment ça va"
+            },
+            {
+                "text": "ತುಂಬಾ ಚೆನ್ನಾಗಿದೆ ಧನ್ಯವಾದಗಳು",
+                "translation_en": "very good thank you",
+                "translation_fr": "très bien merci"
+            }
+        ],
+        "hard": [
+            {
+                "text": "ಇಂದು ಹವಾಮಾನ ಚೆನ್ನಾಗಿದೆ",
+                "translation_en": "it's nice weather today",
+                "translation_fr": "il fait beau aujourd'hui"
+            },
+            {
+                "text": "ಒಂದು ಮೇಜನ್ನು ಕಾಯ್ದಿರಿಸಲು ಬಯಸುತ್ತೇನೆ",
+                "translation_en": "I would like to book a table",
+                "translation_fr": "je voudrais réserver une table"
+            },
+            {
+                "text": "ಇಂದು ನಡೆಯಲು ಒಳ್ಳೆಯ ದಿನ",
+                "translation_en": "it's a beautiful day to walk",
+                "translation_fr": "c'est une belle journée pour marcher"
+            },
+            {
+                "text": "ಒಂದು ಒಳ್ಳೆಯ ಕನ್ನಡ ಹೋಟೆಲ್ ಹುಡುಕುತ್ತಿದ್ದೇನೆ",
+                "translation_en": "I'm looking for a good Kannada restaurant",
+                "translation_fr": "je cherche un bon restaurant kannada"
+            },
+            {
+                "text": "ದಯವಿಟ್ಟು ಬಿಲ್ ನೀಡಿ",
+                "translation_en": "can we have the bill please",
+                "translation_fr": "pouvons-nous avoir l'addition s'il vous plaît"
+            }
+        ]
+    },
+    {
+        "language": "Punjabi",
+        "easy": [
+            {
+                "text": "ਸਤ ਸ੍ਰੀ ਅਕਾਲ",
+                "translation_en": "hello",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "ਧੰਨਵਾਦ",
+                "translation_en": "thank you",
+                "translation_fr": "merci"
+            },
+            {
+                "text": "ਬਿੱਲੀ",
+                "translation_en": "cat",
+                "translation_fr": "chat"
+            },
+            {
+                "text": "ਕੁੱਤਾ",
+                "translation_en": "dog",
+                "translation_fr": "chien"
+            },
+            {
+                "text": "ਫੁੱਲ",
+                "translation_en": "flower",
+                "translation_fr": "fleur"
+            }
+        ],
+        "normal": [
+            {
+                "text": "ਸ਼ੁਭ ਸਵੇਰ",
+                "translation_en": "good morning",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "ਕੱਲ੍ਹ ਮਿਲਦੇ ਹਾਂ",
+                "translation_en": "see you tomorrow",
+                "translation_fr": "à demain"
+            },
+            {
+                "text": "ਨਾਸ਼ਤਾ",
+                "translation_en": "breakfast",
+                "translation_fr": "petit déjeuner"
+            },
+            {
+                "text": "ਤੁਸੀਂ ਕਿਵੇਂ ਹੋ",
+                "translation_en": "how are you",
+                "translation_fr": "comment ça va"
+            },
+            {
+                "text": "ਬਹੁਤ ਵਧੀਆ, ਧੰਨਵਾਦ",
+                "translation_en": "very good thank you",
+                "translation_fr": "très bien merci"
+            }
+        ],
+        "hard": [
+            {
+                "text": "ਅੱਜ ਮੌਸਮ ਵਧੀਆ ਹੈ",
+                "translation_en": "it's nice weather today",
+                "translation_fr": "il fait beau aujourd'hui"
+            },
+            {
+                "text": "ਮੈਂ ਇਕ ਮੇਜ਼ ਬੁੱਕ ਕਰਨਾ ਚਾਹੁੰਦਾ ਹਾਂ",
+                "translation_en": "I would like to book a table",
+                "translation_fr": "je voudrais réserver une table"
+            },
+            {
+                "text": "ਅੱਜ ਤੁਰਨ ਲਈ ਵਧੀਆ ਦਿਨ ਹੈ",
+                "translation_en": "it's a beautiful day to walk",
+                "translation_fr": "c'est une belle journée pour marcher"
+            },
+            {
+                "text": "ਮੈਂ ਇੱਕ ਵਧੀਆ ਪੰਜਾਬੀ ਰੈਸਟੋਰੈਂਟ ਲੱਭ ਰਿਹਾ ਹਾਂ",
+                "translation_en": "I'm looking for a good Punjabi restaurant",
+                "translation_fr": "je cherche un bon restaurant pendjabi"
+            },
+            {
+                "text": "ਕਿਰਪਾ ਕਰਕੇ ਬਿੱਲ ਦਿਓ",
+                "translation_en": "can we have the bill please",
+                "translation_fr": "pouvons-nous avoir l'addition s'il vous plaît"
+            }
+        ]
+    },
+    {
+        "language": "Swahili",
+        "easy": [
+            {
+                "text": "habari",
+                "translation_en": "hello",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "asante",
+                "translation_en": "thank you",
+                "translation_fr": "merci"
+            },
+            {
+                "text": "paka",
+                "translation_en": "cat",
+                "translation_fr": "chat"
+            },
+            {
+                "text": "mbwa",
+                "translation_en": "dog",
+                "translation_fr": "chien"
+            },
+            {
+                "text": "ua",
+                "translation_en": "flower",
+                "translation_fr": "fleur"
+            }
+        ],
+        "normal": [
+            {
+                "text": "asubuhi njema",
+                "translation_en": "good morning",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "tutaonana kesho",
+                "translation_en": "see you tomorrow",
+                "translation_fr": "à demain"
+            },
+            {
+                "text": "kifungua kinywa",
+                "translation_en": "breakfast",
+                "translation_fr": "petit déjeuner"
+            },
+            {
+                "text": "habari yako",
+                "translation_en": "how are you",
+                "translation_fr": "comment ça va"
+            },
+            {
+                "text": "nzuri sana, asante",
+                "translation_en": "very good thank you",
+                "translation_fr": "très bien merci"
+            }
+        ],
+        "hard": [
+            {
+                "text": "leo hali ya hewa ni nzuri",
+                "translation_en": "it's nice weather today",
+                "translation_fr": "il fait beau aujourd'hui"
+            },
+            {
+                "text": "ningependa kuhifadhi meza",
+                "translation_en": "I would like to book a table",
+                "translation_fr": "je voudrais réserver une table"
+            },
+            {
+                "text": "ni siku nzuri ya kutembea",
+                "translation_en": "it's a beautiful day to walk",
+                "translation_fr": "c'est une belle journée pour marcher"
+            },
+            {
+                "text": "natafuta mgahawa mzuri wa Kiswahili",
+                "translation_en": "I'm looking for a good Swahili restaurant",
+                "translation_fr": "je cherche un bon restaurant swahili"
+            },
+            {
+                "text": "tafadhali tuletee bili",
+                "translation_en": "can we have the bill please",
+                "translation_fr": "pouvons-nous avoir l'addition s'il vous plaît"
+            }
+        ]
+    },
+    {
+        "language": "Cantonese",
+        "easy": [
+            {
+                "text": "你好",
+                "translation_en": "hello",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "多謝",
+                "translation_en": "thank you",
+                "translation_fr": "merci"
+            },
+            {
+                "text": "貓",
+                "translation_en": "cat",
+                "translation_fr": "chat"
+            },
+            {
+                "text": "狗",
+                "translation_en": "dog",
+                "translation_fr": "chien"
+            },
+            {
+                "text": "花",
+                "translation_en": "flower",
+                "translation_fr": "fleur"
+            }
+        ],
+        "normal": [
+            {
+                "text": "早晨",
+                "translation_en": "good morning",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "聽日見",
+                "translation_en": "see you tomorrow",
+                "translation_fr": "à demain"
+            },
+            {
+                "text": "早餐",
+                "translation_en": "breakfast",
+                "translation_fr": "petit déjeuner"
+            },
+            {
+                "text": "你好嗎",
+                "translation_en": "how are you",
+                "translation_fr": "comment ça va"
+            },
+            {
+                "text": "非常好，多謝",
+                "translation_en": "very good thank you",
+                "translation_fr": "très bien merci"
+            }
+        ],
+        "hard": [
+            {
+                "text": "今日天氣好好",
+                "translation_en": "it's nice weather today",
+                "translation_fr": "il fait beau aujourd'hui"
+            },
+            {
+                "text": "我想訂張枱",
+                "translation_en": "I would like to book a table",
+                "translation_fr": "je voudrais réserver une table"
+            },
+            {
+                "text": "今日係行街嘅好日子",
+                "translation_en": "it's a beautiful day to walk",
+                "translation_fr": "c'est une belle journée pour marcher"
+            },
+            {
+                "text": "我搵緊一間好嘅廣東餐廳",
+                "translation_en": "I'm looking for a good Cantonese restaurant",
+                "translation_fr": "je cherche un bon restaurant cantonais"
+            },
+            {
+                "text": "可唔可以比我張單",
+                "translation_en": "can we have the bill please",
+                "translation_fr": "pouvons-nous avoir l'addition s'il vous plaît"
+            }
+        ]
+    },
+    {
+        "language": "Kurdish",
+        "easy": [
+            {
+                "text": "slav",
+                "translation_en": "hello",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "supas",
+                "translation_en": "thank you",
+                "translation_fr": "merci"
+            },
+            {
+                "text": "pisîk",
+                "translation_en": "cat",
+                "translation_fr": "chat"
+            },
+            {
+                "text": "se",
+                "translation_en": "dog",
+                "translation_fr": "chien"
+            },
+            {
+                "text": "gul",
+                "translation_en": "flower",
+                "translation_fr": "fleur"
+            }
+        ],
+        "normal": [
+            {
+                "text": "sibê baş",
+                "translation_en": "good morning",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "sibê em ê bibînin",
+                "translation_en": "see you tomorrow",
+                "translation_fr": "à demain"
+            },
+            {
+                "text": "xwarina sibê",
+                "translation_en": "breakfast",
+                "translation_fr": "petit déjeuner"
+            },
+            {
+                "text": "tu çawa yî",
+                "translation_en": "how are you",
+                "translation_fr": "comment ça va"
+            },
+            {
+                "text": "zêdetir baş im, supas",
+                "translation_en": "very good thank you",
+                "translation_fr": "très bien merci"
+            }
+        ],
+        "hard": [
+            {
+                "text": "îro hewaya baş e",
+                "translation_en": "it's nice weather today",
+                "translation_fr": "il fait beau aujourd'hui"
+            },
+            {
+                "text": "dixwazim maseyek rezerv bikim",
+                "translation_en": "I would like to book a table",
+                "translation_fr": "je voudrais réserver une table"
+            },
+            {
+                "text": "îro roja baş e ji bo meş",
+                "translation_en": "it's a beautiful day to walk",
+                "translation_fr": "c'est une belle journée pour marcher"
+            },
+            {
+                "text": "ez digerim restoranekî kurdî ya baş",
+                "translation_en": "I'm looking for a good Kurdish restaurant",
+                "translation_fr": "je cherche un bon restaurant kurde"
+            },
+            {
+                "text": "dikarin hesabê bidin",
+                "translation_en": "can we have the bill please",
+                "translation_fr": "pouvons-nous avoir l'addition s'il vous plaît"
+            }
+        ]
+    },
+    {
+        "language": "Bengali",
+        "easy": [
+            {
+                "text": "হ্যালো",
+                "translation_en": "hello",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "ধন্যবাদ",
+                "translation_en": "thank you",
+                "translation_fr": "merci"
+            },
+            {
+                "text": "বিড়াল",
+                "translation_en": "cat",
+                "translation_fr": "chat"
+            },
+            {
+                "text": "কুকুর",
+                "translation_en": "dog",
+                "translation_fr": "chien"
+            },
+            {
+                "text": "ফুল",
+                "translation_en": "flower",
+                "translation_fr": "fleur"
+            }
+        ],
+        "normal": [
+            {
+                "text": "সুপ্রভাত",
+                "translation_en": "good morning",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "আগামীকাল দেখা হবে",
+                "translation_en": "see you tomorrow",
+                "translation_fr": "à demain"
+            },
+            {
+                "text": "সকালের খাবার",
+                "translation_en": "breakfast",
+                "translation_fr": "petit déjeuner"
+            },
+            {
+                "text": "আপনি কেমন আছেন",
+                "translation_en": "how are you",
+                "translation_fr": "comment ça va"
+            },
+            {
+                "text": "খুব ভালো, ধন্যবাদ",
+                "translation_en": "very good thank you",
+                "translation_fr": "très bien merci"
+            }
+        ],
+        "hard": [
+            {
+                "text": "আজ আবহাওয়া সুন্দর",
+                "translation_en": "it's nice weather today",
+                "translation_fr": "il fait beau aujourd'hui"
+            },
+            {
+                "text": "আমি একটি টেবিল রিজার্ভ করতে চাই",
+                "translation_en": "I would like to book a table",
+                "translation_fr": "je voudrais réserver une table"
+            },
+            {
+                "text": "আজ হাঁটার জন্য একটি চমৎকার দিন",
+                "translation_en": "it's a beautiful day to walk",
+                "translation_fr": "c'est une belle journée pour marcher"
+            },
+            {
+                "text": "আমি একটি ভালো বাংলা রেস্টুরেন্ট খুঁজছি",
+                "translation_en": "I'm looking for a good Bengali restaurant",
+                "translation_fr": "je cherche un bon restaurant bengali"
+            },
+            {
+                "text": "আমরা বিল পেতে পারি?",
+                "translation_en": "can we have the bill please",
+                "translation_fr": "pouvons-nous avoir l'addition s'il vous plaît"
+            }
+        ]
+    },
+    {
+        "language": "Hmong",
+        "easy": [
+            {
+                "text": "nyob zoo",
+                "translation_en": "hello",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "ua tsaug",
+                "translation_en": "thank you",
+                "translation_fr": "merci"
+            },
+            {
+                "text": "miv",
+                "translation_en": "cat",
+                "translation_fr": "chat"
+            },
+            {
+                "text": "dev",
+                "translation_en": "dog",
+                "translation_fr": "chien"
+            },
+            {
+                "text": "paj",
+                "translation_en": "flower",
+                "translation_fr": "fleur"
+            }
+        ],
+        "normal": [
+            {
+                "text": "sub hmo",
+                "translation_en": "good morning",
+                "translation_fr": "bonjour"
+            },
+            {
+                "text": "pom koj tag kis",
+                "translation_en": "see you tomorrow",
+                "translation_fr": "à demain"
+            },
+            {
+                "text": "noj tshais",
+                "translation_en": "breakfast",
+                "translation_fr": "petit déjeuner"
+            },
+            {
+                "text": "koj nyob li cas",
+                "translation_en": "how are you",
+                "translation_fr": "comment ça va"
+            },
+            {
+                "text": "zoo heev ua tsaug",
+                "translation_en": "very good thank you",
+                "translation_fr": "très bien merci"
+            }
+        ],
+        "hard": [
+            {
+                "text": "hnub no huab cua zoo heev",
+                "translation_en": "it's nice weather today",
+                "translation_fr": "il fait beau aujourd'hui"
+            },
+            {
+                "text": "kuv xav khaws ib lub rooj",
+                "translation_en": "I would like to book a table",
+                "translation_fr": "je voudrais réserver une table"
+            },
+            {
+                "text": "hnub no yog ib hnub zoo rau kev taug kev",
+                "translation_en": "it's a beautiful day to walk",
+                "translation_fr": "c'est une belle journée pour marcher"
+            },
+            {
+                "text": "kuv tab tom nrhiav ib lub tsev noj mov zoo Hmoob",
+                "translation_en": "I'm looking for a good Hmong restaurant",
+                "translation_fr": "je cherche un bon restaurant hmong"
+            },
+            {
+                "text": "peb tuaj yeem tau daim nqi thov",
+                "translation_en": "can we have the bill please",
+                "translation_fr": "pouvons-nous avoir l'addition s'il vous plaît"
+            }
+        ]
+    }
+]
