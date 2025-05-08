@@ -36,16 +36,62 @@
     font-weight: 900;
     margin-bottom: 1.5rem;
     color: transparent;
+    -webkit-text-stroke: 1px rgba(255, 255, 255, 0.7);
     user-select: none;
     cursor: default;
     letter-spacing: 0.04em;
     line-height: 1.1;
+    transition: -webkit-text-stroke 0.2s ease;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.home-title {
+    font-size: clamp(3.5rem, 9vw, 7rem);
+    font-weight: 900;
+    margin-bottom: 1.5rem;
+    color: transparent;
+    -webkit-text-stroke: 1px rgba(255, 255, 255, 0.7);
+    user-select: none;
+    cursor: default;
+    letter-spacing: 0.04em;
+    line-height: 1.1;
+    transition: -webkit-text-stroke 0.2s ease;
+    text-align: center;
 }
 
 .home-title span {
     display: inline-block;
-    transition: all 0.2s ease;
-    -webkit-text-stroke: 1px rgba(255, 255, 255, 0.4);
+    transition: -webkit-text-stroke 0.2s ease;
+}
+
+/* Effet encore plus brillant au survol */
+.home-title:hover span {
+    -webkit-text-stroke: 1px rgba(255, 255, 255, 1);
+}
+
+/* Forcer le retour à la ligne entre les mots avec les media queries */
+@media (max-width: 768px) {
+    .home-title .title-separator {
+        display: none;
+    }
+
+    .home-title .title-first {
+        display: block;
+        margin-bottom: 0.1em;
+    }
+
+    .home-title .title-second {
+        display: block;
+    }
+}
+
+/* Pour les écrans encore plus petits, ajuster la taille si nécessaire */
+@media (max-width: 480px) {
+    .home-title {
+        font-size: clamp(2.5rem, 8vw, 3.5rem);
+    }
 }
 
 .home-subtitle {

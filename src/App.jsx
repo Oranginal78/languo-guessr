@@ -263,9 +263,7 @@ function App() {
           <button onClick={resetGame} className="button">
             {uiLanguage === 'en' ? 'Return to Menu' : 'Retour au menu'}
           </button>
-          <a href="/about" className="lab-link">
-            Oranginal AI Lab
-          </a>
+          <a href="/about" className="lab-link">Oranginal AI Lab</a>
         </div>
       </div>
     );
@@ -279,15 +277,11 @@ function App() {
             <button onClick={resetGame} className="button button-secondary">
               {uiLanguage === 'en' ? 'Return to Menu' : 'Retour au menu'}
             </button>
-            <a href="/about" className="lab-link">
-              Oranginal AI Lab
-            </a>
+            <a href="/about" className="lab-link">Oranginal AI Lab</a>
           </div>
-
           <h2>{uiLanguage === 'en' ? 'Translation Bonus!' : 'Bonus Traduction !'}</h2>
           <p>{uiLanguage === 'en' ? 'Translate this to English:' : 'Traduisez ceci en français :'}</p>
           <p className="highlight-text text-center">{currentText.text}</p>
-
           <h3>{uiLanguage === 'en' ? 'Time Left:' : 'Temps restant :'} {timeLeft}s</h3>
           <input
             type="text"
@@ -298,7 +292,7 @@ function App() {
           />
           <br />
           <button onClick={handleTranslationSubmit} className="button">
-            {uiLanguage === 'en' ? 'Submit Translation' : 'Valider la traduction'}
+            {uiLanguage === 'en' ? 'Submit Translation or skip ' : 'Valider la traduction ou passer'}
           </button>
           <p className="copyright">© Oranginal</p>
         </div>
@@ -317,9 +311,7 @@ function App() {
           <button onClick={resetGame} className="button button-secondary">
             {uiLanguage === 'en' ? 'Return to Menu' : 'Retour au menu'}
           </button>
-          <a href="/about" className="lab-link">
-            Oranginal AI Lab
-          </a>
+          <a href="/about" className="lab-link">Oranginal AI Lab</a>
         </div>
 
         <h2>Round {currentRound} / {TOTAL_ROUNDS}</h2>
@@ -346,15 +338,21 @@ function App() {
           ))}
         </div>
 
-        <p className="copyright">© Oranginal</p>
+        {/* ✅ Skip button déplacé + bon style + effet immédiat */}
+        <div className="start-button-container">
+          <button
+            onClick={handleGuessTimeout}
+            disabled={waitingNextRound}
+            className="start-button-futuristic"
+          >
+            {uiLanguage === 'en' ? 'Skip' : 'Passer'}
+          </button>
+        </div>
+
+
+        <p className="copyright mt-4">© Oranginal</p>
       </div>
     </div>
-  );
-  return (
-    <Routes>
-      <Route path="/" element={<Home />} />
-      {/* Tu peux ajouter d'autres routes comme "/play" ou "/about" */}
-    </Routes>
   );
 }
 

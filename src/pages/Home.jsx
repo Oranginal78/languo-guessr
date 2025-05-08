@@ -3,6 +3,7 @@ import './Home.css';
 
 function Home({ onStart }) {
     const titleRef = useRef(null);
+    const videoRef = useRef(null);
 
     useEffect(() => {
         const title = titleRef.current;
@@ -60,17 +61,53 @@ function Home({ onStart }) {
             document.removeEventListener('mousemove', handleMouseMove);
             document.removeEventListener('touchmove', handleTouchMove);
         };
+        const video = videoRef.current;
+
+        if (video) {
+            const playVideo = () => {
+                video.play().catch(error => {
+                    console.log("Autoplay prevented:", error);
+                    document.addEventListener('touchstart', handleTouch, { once: true });
+                });
+            };
+
+            const handleTouch = () => {
+                video.play().catch(error => {
+                    console.log("Still can't play video:", error);
+                });
+            };
+
+            // Pour iOS Safari spécifiquement
+            video.addEventListener('loadedmetadata', playVideo);
+
+            return () => {
+                video.removeEventListener('loadedmetadata', playVideo);
+                document.removeEventListener('touchstart', handleTouch);
+            };
+        }
+
+
     }, []);
 
     return (
         <div className="home-container">
-            <video className="background-video" autoPlay loop muted>
+            <video
+                className="background-video"
+                ref={videoRef}
+                autoPlay
+                loop
+                muted
+                playsInline
+            >
                 <source src="/videos/intro.mp4" type="video/mp4" />
                 Your browser does not support the video tag.
             </video>
 
             <div className="home-overlay">
-                <h1 className="home-title" ref={titleRef}>Languo Guessr</h1>
+                <h1 className="home-title" ref={titleRef}>
+                    <span className="title-word">Languo</span>{" "}
+                    <span className="title-word">Guessr</span>
+                </h1>
                 <p className="home-subtitle"> Learn languages the fun way </p>
                 <button onClick={onStart} className="home-button">
                     Start Playing
