@@ -243,15 +243,19 @@ function App() {
   };
 
   if (!selectedLanguages) {
-    return <LanguageSelector onValidate={handleLanguagesValidated} />;
+    if (screen === 'home') {
+      return <Home onStart={handleStart} />;
+    } else {
+      return <LanguageSelector onValidate={handleLanguagesValidated} />;
+    }
   }
 
   const backgroundStyle = { backgroundImage: `url("${background}")` };
 
   if (gameOver) {
     return (
-      <div className="app" style={backgroundStyle}>
-        <div className="glass-box">
+      <div className="app w-full min-h-screen px-4 flex items-center justify-center" style={backgroundStyle}>
+        <div className="glass-box mx-auto w-full max-w-2xl px-4 text-center">
           <h1>{uiLanguage === 'en' ? 'Game Over!' : 'Partie terminée !'}</h1>
           <p>{uiLanguage === 'en' ? 'Final Score:' : 'Score final :'} {score}</p>
           <p>{uiLanguage === 'en' ? 'Total Correct Answers:' : 'Réponses Correctes :'} {correctAnswers}</p>
@@ -269,11 +273,20 @@ function App() {
 
   if (awaitingTranslation) {
     return (
-      <div className="app" style={backgroundStyle}>
-        <div className="glass-box">
+      <div className="app w-full min-h-screen px-4 flex items-center justify-center" style={backgroundStyle}>
+        <div className="glass-box mx-auto w-full max-w-2xl px-4 text-center">
+          <div className="nav-buttons">
+            <button onClick={resetGame} className="button button-secondary">
+              {uiLanguage === 'en' ? 'Return to Menu' : 'Retour au menu'}
+            </button>
+            <a href="/about" className="lab-link">
+              Oranginal AI Lab
+            </a>
+          </div>
+
           <h2>{uiLanguage === 'en' ? 'Translation Bonus!' : 'Bonus Traduction !'}</h2>
           <p>{uiLanguage === 'en' ? 'Translate this to English:' : 'Traduisez ceci en français :'}</p>
-          <p className="highlight-text">{currentText.text}</p>
+          <p className="highlight-text text-center">{currentText.text}</p>
 
           <h3>{uiLanguage === 'en' ? 'Time Left:' : 'Temps restant :'} {timeLeft}s</h3>
           <input
@@ -287,13 +300,7 @@ function App() {
           <button onClick={handleTranslationSubmit} className="button">
             {uiLanguage === 'en' ? 'Submit Translation' : 'Valider la traduction'}
           </button>
-          <br />
-          <button onClick={resetGame} className="button button-secondary">
-            {uiLanguage === 'en' ? 'Return to Menu' : 'Retour au menu'}
-          </button>
-          <a href="/about" className="lab-link">
-            Oranginal AI Lab
-          </a>
+          <p className="copyright">© Oranginal</p>
         </div>
       </div>
     );
@@ -304,14 +311,17 @@ function App() {
   }
 
   return (
-    <div className="app" style={backgroundStyle}>
-      <div className="glass-box">
-        <button onClick={resetGame} className="button button-secondary">
-          {uiLanguage === 'en' ? 'Return to Menu' : 'Retour au menu'}
-        </button>
-        <a href="/about" className="lab-link">
-          Oranginal AI Lab
-        </a>
+    <div className="app w-full min-h-screen px-4 flex items-center justify-center" style={backgroundStyle}>
+      <div className="glass-box mx-auto w-full max-w-2xl px-4 text-center">
+        <div className="nav-buttons">
+          <button onClick={resetGame} className="button button-secondary">
+            {uiLanguage === 'en' ? 'Return to Menu' : 'Retour au menu'}
+          </button>
+          <a href="/about" className="lab-link">
+            Oranginal AI Lab
+          </a>
+        </div>
+
         <h2>Round {currentRound} / {TOTAL_ROUNDS}</h2>
         <h3>{uiLanguage === 'en' ? 'Score:' : 'Score :'} {score}</h3>
         <h3>{uiLanguage === 'en' ? 'Streak:' : 'Série :'} {streakCount}</h3>
@@ -321,10 +331,7 @@ function App() {
           <div className={`feedback ${feedbackColor}`}>{feedbackMessage}</div>
         )}
 
-        <p className="highlight-text">{currentText.text}</p>
-
-
-
+        <p className="highlight-text text-center">{currentText.text}</p>
 
         <div className="choices">
           {selectedLanguages.map(lang => (
@@ -342,6 +349,12 @@ function App() {
         <p className="copyright">© Oranginal</p>
       </div>
     </div>
+  );
+  return (
+    <Routes>
+      <Route path="/" element={<Home />} />
+      {/* Tu peux ajouter d'autres routes comme "/play" ou "/about" */}
+    </Routes>
   );
 }
 

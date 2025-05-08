@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-import bg7 from '../images/fond7.png'; // chemin correct
+import bg7 from '../images/fond7.png';
+import './LanguageSelector.css';
 
 const languagesList = [
     { en: 'Arabic', fr: 'Arabe' }, { en: 'Bengali', fr: 'Bengali' }, { en: 'Bulgarian', fr: 'Bulgare' },
@@ -31,58 +32,62 @@ function LanguageSelector({ onValidate }) {
         }
     };
 
-    const selectAll = () => {
-        setSelectedLanguages(languagesList.map(lang => lang.en));
-    };
-
-    const unselectAll = () => {
-        setSelectedLanguages([]);
-    };
+    const selectAll = () => setSelectedLanguages(languagesList.map(lang => lang.en));
+    const unselectAll = () => setSelectedLanguages([]);
 
     const handleSubmit = () => {
         if (selectedLanguages.length >= 3) {
-            onValidate(selectedLanguages, difficulty, uiLanguage);
+            if (onValidate) {
+                onValidate(selectedLanguages, difficulty, uiLanguage);
+            }
         } else {
-            alert(uiLanguage === 'en' ? 'Please select at least 3 languages.' : 'Veuillez sélectionner au moins 3 langues.');
+            alert(uiLanguage === 'en'
+                ? 'Please select at least 3 languages.'
+                : 'Veuillez sélectionner au moins 3 langues.');
         }
     };
 
     return (
-        <div className="selector-background" style={{ backgroundImage: `url(${bg7})` }}>
-            {/* Oranginal AI Lab Button CENTRÉ */}
+        <div className="language-selector-page" style={{ backgroundImage: `url(${bg7})` }}>
             <div className="center-top-link">
                 <Link to="/about" className="lab-link-button">Oranginal AI Lab</Link>
             </div>
 
-            {/* Glass Card */}
-            <div className="glass-card-futuristic" style={{ textAlign: 'center', marginTop: '3rem' }}>
-                {/* Grand titre */}
-                <h1 className="highlight-text">Languo Guessr</h1>
+            <div className="selector-glass-box">
+                <h1 className="selector-title">Languo Guessr</h1>
 
-                {/* Choix langue UI */}
+                {/* UI Language */}
                 <div className="option-line">
-                    <div className="option-title">{uiLanguage === 'en' ? 'Choose UI Language' : 'Choisissez la langue du jeu'}</div>
+                    <div className="option-title">
+                        {uiLanguage === 'en' ? 'Choose UI Language' : 'Choisissez la langue du jeu'}
+                    </div>
                     <div className="selector-buttons">
-                        <button onClick={() => setUiLanguage('en')} className={uiLanguage === 'en' ? 'selector-button active' : 'selector-button'}>English</button>
-                        <button onClick={() => setUiLanguage('fr')} className={uiLanguage === 'fr' ? 'selector-button active' : 'selector-button'}>Français</button>
+                        <button onClick={() => setUiLanguage('en')} className={`selector-button ${uiLanguage === 'en' ? 'active' : ''}`}>English</button>
+                        <button onClick={() => setUiLanguage('fr')} className={`selector-button ${uiLanguage === 'fr' ? 'active' : ''}`}>Français</button>
                     </div>
                 </div>
 
-                {/* Choix difficulté */}
+                {/* Difficulty */}
                 <div className="option-line">
-                    <div className="option-title">{uiLanguage === 'en' ? 'Select Difficulty' : 'Sélectionnez la difficulté'}</div>
+                    <div className="option-title">
+                        {uiLanguage === 'en' ? 'Select Difficulty' : 'Sélectionnez la difficulté'}
+                    </div>
                     <div className="selector-buttons">
                         {['easy', 'normal', 'hard'].map(level => (
-                            <button key={level} onClick={() => setDifficulty(level)} className={difficulty === level ? 'selector-button active' : 'selector-button'}>
+                            <button
+                                key={level}
+                                onClick={() => setDifficulty(level)}
+                                className={`selector-button ${difficulty === level ? 'active' : ''}`}
+                            >
                                 {level.toUpperCase()}
                             </button>
                         ))}
                     </div>
                 </div>
 
-                {/* Langues à choisir */}
+                {/* Language Title + Controls */}
                 <h2>{uiLanguage === 'en' ? 'Select Languages to Play With' : 'Sélectionnez les langues du jeu'}</h2>
-                <div className="selector-actions">
+                <div className="selector-buttons">
                     <button onClick={selectAll} className="selector-button small">
                         {uiLanguage === 'en' ? 'Select All' : 'Tout sélectionner'}
                     </button>
@@ -91,10 +96,14 @@ function LanguageSelector({ onValidate }) {
                     </button>
                 </div>
 
-                {/* Liste des langues */}
+                {/* Languages */}
                 <div className="language-list">
                     {languagesList.map(language => (
-                        <button key={language.en} onClick={() => toggleLanguage(language)} className={selectedLanguages.includes(language.en) ? 'language-button active' : 'language-button'}>
+                        <button
+                            key={language.en}
+                            onClick={() => toggleLanguage(language)}
+                            className={`language-button ${selectedLanguages.includes(language.en) ? 'active' : ''}`}
+                        >
                             {uiLanguage === 'en' ? language.en : language.fr}
                         </button>
                     ))}
@@ -107,10 +116,7 @@ function LanguageSelector({ onValidate }) {
                     </button>
                 </div>
 
-                {/* Footer */}
-                <div className="footer">
-                    © Oranginal
-                </div>
+                <div className="footer">© Oranginal</div>
             </div>
         </div>
     );

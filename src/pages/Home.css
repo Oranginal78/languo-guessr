@@ -1,0 +1,73 @@
+.home-container {
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    overflow: hidden;
+    font-family: 'Poppins', sans-serif;
+}
+
+.background-video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: 0;
+    filter: brightness(0.65);
+}
+
+.home-overlay {
+    position: relative;
+    z-index: 1;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 2rem;
+    color: white;
+    backdrop-filter: blur(4px);
+}
+
+.home-title {
+    font-size: clamp(3.5rem, 9vw, 7rem);
+    font-weight: 900;
+    margin-bottom: 1.5rem;
+    color: transparent;
+    user-select: none;
+    cursor: default;
+    letter-spacing: 0.04em;
+    line-height: 1.1;
+}
+
+.home-title span {
+    display: inline-block;
+    transition: all 0.2s ease;
+    -webkit-text-stroke: 1px rgba(255, 255, 255, 0.4);
+}
+
+.home-subtitle {
+    font-size: 1.6rem;
+    margin-bottom: 2.5rem;
+    color: #e0f7fa;
+}
+
+.home-button {
+    background: rgba(255, 255, 255, 0.85);
+    color: #0e7490;
+    padding: 1rem 2.5rem;
+    font-size: 1.2rem;
+    border: none;
+    border-radius: 2rem;
+    font-weight: bold;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.home-button:hover {
+    background: white;
+    transform: scale(1.07);
+}

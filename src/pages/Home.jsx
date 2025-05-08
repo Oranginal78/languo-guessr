@@ -1,27 +1,78 @@
-import React from 'react';
+import React, { useEffect, useRef } from 'react';
+import './Home.css';
 
 function Home({ onStart }) {
-    return (
-        <div className="min-h-screen flex flex-col justify-center items-center bg-gradient-to-br from-sky-300 via-cyan-200 to-green-200 relative overflow-hidden">
-            {/* Background Bubbles */}
-            <div className="absolute inset-0 overflow-hidden">
-                <div className="absolute w-72 h-72 bg-cyan-100 rounded-full opacity-30 animate-pulse top-20 left-10"></div>
-                <div className="absolute w-96 h-96 bg-green-100 rounded-full opacity-20 animate-pulse bottom-10 right-10"></div>
-                <div className="absolute w-48 h-48 bg-sky-200 rounded-full opacity-30 animate-pulse bottom-32 left-1/4"></div>
-            </div>
+    const titleRef = useRef(null);
 
-            {/* Main Content */}
-            <div className="z-10 text-center">
-                <h1 className="text-5xl md:text-6xl font-bold text-white drop-shadow-lg mb-8">
-                    Languo Guessr
-                </h1>
-                <p className="text-xl md:text-2xl text-white mb-10 drop-shadow">
-                    ✨ Learn languages the fun way ✨
-                </p>
-                <button
-                    onClick={onStart}
-                    className="px-8 py-4 bg-white/80 hover:bg-white/90 backdrop-blur-md rounded-full shadow-lg text-cyan-600 font-semibold text-lg hover:scale-105 transition-all duration-300"
-                >
+    useEffect(() => {
+        const title = titleRef.current;
+        const originalText = title.textContent;
+        title.textContent = '';
+
+        // Créer un span pour chaque lettre
+        [...originalText].forEach((char, i) => {
+            const span = document.createElement('span');
+            span.textContent = char;
+            span.dataset.index = i;
+            title.appendChild(span);
+        });
+
+        const letters = title.querySelectorAll('span');
+        const sensitivity = 150;
+
+        const handleMouseMove = (e) => {
+            const mouseX = e.clientX;
+            const mouseY = e.clientY;
+
+            letters.forEach(letter => {
+                const rect = letter.getBoundingClientRect();
+                const centerX = rect.left + rect.width / 2;
+                const centerY = rect.top + rect.height / 2;
+                const dist = Math.sqrt((mouseX - centerX) ** 2 + (mouseY - centerY) ** 2);
+
+                if (dist < sensitivity) {
+                    const intensity = 1 - dist / sensitivity;
+                    letter.style.webkitTextStroke = `${1 + intensity}px rgba(255, 255, 255, ${0.4 + 0.6 * intensity})`;
+                    letter.style.textShadow = `0 0 ${8 * intensity}px rgba(255, 255, 255, ${0.4 * intensity})`;
+                } else {
+                    letter.style.webkitTextStroke = '1px rgba(255, 255, 255, 0.4)';
+                    letter.style.textShadow = 'none';
+                }
+            });
+        };
+
+        const handleTouchMove = (e) => {
+            if (e.touches.length > 0) {
+                const touch = e.touches[0];
+                const simulatedMouse = new MouseEvent('mousemove', {
+                    clientX: touch.clientX,
+                    clientY: touch.clientY,
+                });
+                document.dispatchEvent(simulatedMouse);
+                e.preventDefault();
+            }
+        };
+
+        document.addEventListener('mousemove', handleMouseMove);
+        document.addEventListener('touchmove', handleTouchMove, { passive: false });
+
+        return () => {
+            document.removeEventListener('mousemove', handleMouseMove);
+            document.removeEventListener('touchmove', handleTouchMove);
+        };
+    }, []);
+
+    return (
+        <div className="home-container">
+            <video className="background-video" autoPlay loop muted>
+                <source src="/videos/intro.mp4" type="video/mp4" />
+                Your browser does not support the video tag.
+            </video>
+
+            <div className="home-overlay">
+                <h1 className="home-title" ref={titleRef}>Languo Guessr</h1>
+                <p className="home-subtitle"> Learn languages the fun way </p>
+                <button onClick={onStart} className="home-button">
                     Start Playing
                 </button>
             </div>

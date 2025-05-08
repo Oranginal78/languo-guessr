@@ -1,0 +1,154 @@
+/* LanguageSelector.css */
+
+.language-selector-page {
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+}
+
+.selector-glass-box {
+    background: rgba(255, 255, 255, 0.08);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border-radius: 2rem;
+    padding: 2rem;
+    max-width: 800px;
+    width: 100%;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    color: white;
+}
+
+.selector-title {
+    font-size: clamp(1.8rem, 5vw, 3rem);
+    margin-bottom: 1.5rem;
+    font-weight: 700;
+}
+
+.option-line {
+    margin: 1rem 0;
+}
+
+.option-title {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+}
+
+.selector-buttons {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.selector-button {
+    background: rgba(255, 255, 255, 0.1);
+    border: none;
+    padding: 0.6rem 1.2rem;
+    border-radius: 1rem;
+    cursor: pointer;
+    color: white;
+    transition: background-color 0.3s;
+}
+
+.selector-button:hover,
+.selector-button.active {
+    background: rgba(255, 255, 255, 0.3);
+}
+
+.selector-button.small {
+    font-size: 0.85rem;
+    padding: 0.4rem 0.8rem;
+}
+
+.language-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.5rem;
+    margin-top: 1.5rem;
+}
+
+.language-button {
+    padding: 0.6rem 1rem;
+    border-radius: 1rem;
+    background: rgba(255, 255, 255, 0.15);
+    color: white;
+    border: 2px solid transparent;
+    transition: 0.3s;
+}
+
+.language-button.active {
+    border-color: white;
+    background: rgba(255, 255, 255, 0.3);
+}
+
+.start-button-container {
+    margin-top: 2rem;
+}
+
+.start-button-futuristic {
+    background: #ffffff20;
+    padding: 1rem 2rem;
+    border-radius: 1.5rem;
+    border: 2px solid white;
+    color: white;
+    font-size: 1.1rem;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.start-button-futuristic:hover {
+    background: #ffffff40;
+}
+
+.center-top-link {
+    position: absolute;
+    top: 1rem;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    z-index: 10;
+    padding: 0 1rem;
+}
+
+
+.lab-link-button {
+    background: rgba(255, 255, 255, 0.2);
+    color: white;
+    padding: 0.5rem 1.5rem;
+    border-radius: 1.5rem;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background 0.3s;
+}
+
+.lab-link-button:hover {
+    background: rgba(255, 255, 255, 0.35);
+}
+
+.footer {
+    margin-top: 2rem;
+    font-size: 0.9rem;
+    opacity: 0.6;
+}
+
+.language-selector-page {
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 6rem 2rem 2rem 2rem;
+    /* plus d'espace en haut */
+    position: relative;
+}
