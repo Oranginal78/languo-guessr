@@ -263,7 +263,14 @@ function App() {
           <button onClick={resetGame} className="button">
             {uiLanguage === 'en' ? 'Return to Menu' : 'Retour au menu'}
           </button>
-          <a href="/about" className="lab-link">Oranginal AI Lab</a>
+          <a
+            href="https://www.oranginal.xyz/ai-generator.html"
+            className="lab-link"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Oranginal AI Lab
+          </a>
         </div>
       </div>
     );
@@ -277,7 +284,14 @@ function App() {
             <button onClick={resetGame} className="button button-secondary">
               {uiLanguage === 'en' ? 'Return to Menu' : 'Retour au menu'}
             </button>
-            <a href="/about" className="lab-link">Oranginal AI Lab</a>
+            <a
+              href="https://www.oranginal.xyz/ai-generator.html"
+              className="lab-link"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Oranginal AI Lab
+            </a>
           </div>
           <h2>{uiLanguage === 'en' ? 'Translation Bonus!' : 'Bonus Traduction !'}</h2>
           <p>{uiLanguage === 'en' ? 'Translate this to English:' : 'Traduisez ceci en français :'}</p>
@@ -311,7 +325,14 @@ function App() {
           <button onClick={resetGame} className="button button-secondary">
             {uiLanguage === 'en' ? 'Return to Menu' : 'Retour au menu'}
           </button>
-          <a href="/about" className="lab-link">Oranginal AI Lab</a>
+          <a
+            href="https://www.oranginal.xyz/ai-generator.html"
+            className="lab-link"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Oranginal AI Lab
+          </a>
         </div>
 
         <h2>Round {currentRound} / {TOTAL_ROUNDS}</h2>
