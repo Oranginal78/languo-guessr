@@ -13,7 +13,7 @@ import bg6 from './images/fond6.png';
 import bg7 from './images/fond7.png';
 
 
-const TOTAL_ROUNDS = 6;
+const TOTAL_ROUNDS = 8;
 const TIME_GUESS = 30;
 const TIME_TRANSLATE = 30;
 
